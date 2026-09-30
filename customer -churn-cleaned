@@ -1,0 +1,1201 @@
+CustomerID	Gender	SeniorCitizen	Partner	Dependents	TenureMonths	PhoneService	InternetService	OnlineSecurity	TechSupport	Contract	PaperlessBilling	PaymentMethod	MonthlyCharges	TotalCharges	Churn	ChurnFlag
+CUST-0001	Male	1	Yes	No	65	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	77.54	4999.01	Yes	1
+CUST-0002	Female	0	No	No	28	Yes	No	No	No	Month-to-month	No	Electronic check	18	492.45	Yes	1
+CUST-0003	Female	0	No	Yes	37	Yes	DSL	No	Yes	One year	Yes	Credit card (automatic)	49.89	1851.49	No	0
+CUST-0004	Female	0	Yes	No	34	Yes	Fiber optic	No	Yes	Two year	No	Electronic check	84.65	2887.83	Yes	1
+CUST-0005	Male	1	Yes	Yes	1	No	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	91.98	151.23	No	0
+CUST-0006	Male	0	Yes	No	6	Yes	DSL	Yes	Yes	One year	No	Electronic check	74.35	507.61	No	0
+CUST-0007	Female	0	Yes	No	53	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	79.55	4229.11	Yes	1
+CUST-0008	Female	0	Yes	No	66	Yes	DSL	No	No	One year	No	Credit card (automatic)	67.58	4490.71	No	0
+CUST-0009	Female	0	No	No	2	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Credit card (automatic)	86.31	173.25	Yes	1
+CUST-0010	Male	0	No	No	41	Yes	No	No	Yes	One year	No	Credit card (automatic)	19.6	856.32	No	0
+CUST-0011	Male	0	No	No	43	Yes	No	Yes	No	One year	Yes	Mailed check	22.14	965.17	No	0
+CUST-0012	Male	1	No	Yes	56	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	70.89	3909.48	Yes	1
+CUST-0013	Female	0	No	No	65	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	59.02	3877.62	No	0
+CUST-0014	Female	0	No	No	57	Yes	Fiber optic	Yes	No	Month-to-month	No	Bank transfer (automatic)	80.03	4527.16	No	0
+CUST-0015	Female	0	No	No	44	Yes	Fiber optic	No	No	Two year	Yes	Credit card (automatic)	73.08	3163.99	No	0
+CUST-0016	Male	1	Yes	No	55	Yes	Fiber optic	No	Yes	Month-to-month	No	Electronic check	97.39	5316.92	No	0
+CUST-0017	Male	0	Yes	No	40	Yes	No	No	Yes	Month-to-month	Yes	Electronic check	30.55	1186.23	No	0
+CUST-0018	Male	0	No	No	31	Yes	Fiber optic	No	No	One year	Yes	Electronic check	96.95	3009.69	No	0
+CUST-0019	Male	0	Yes	No	61	No	DSL	No	No	Two year	No	Credit card (automatic)	46.75	2831.95	No	0
+CUST-0020	Male	0	No	No	31	Yes	Fiber optic	Yes	No	Month-to-month	No	Bank transfer (automatic)	83.77	2579.43	Yes	1
+CUST-0021	Female	0	Yes	No	48	Yes	No	No	No	Month-to-month	Yes	Electronic check	18	852.69	No	0
+CUST-0022	Male	1	No	No	47	No	Fiber optic	Yes	No	One year	No	Electronic check	90.45	4285.48	No	0
+CUST-0023	Male	0	No	Yes	51	Yes	DSL	Yes	No	Month-to-month	No	Bank transfer (automatic)	47.1	2412.67	No	0
+CUST-0024	Female	0	No	Yes	44	Yes	DSL	Yes	Yes	Month-to-month	No	Mailed check	67.47	2977.18	No	0
+CUST-0025	Male	0	Yes	No	68	Yes	DSL	Yes	No	Month-to-month	No	Bank transfer (automatic)	41.75	2845.94	No	0
+CUST-0026	Male	0	No	No	5	Yes	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	27.5	135.31	Yes	1
+CUST-0027	Male	0	Yes	No	4	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Credit card (automatic)	88.49	401.6	No	0
+CUST-0028	Female	0	Yes	Yes	18	Yes	DSL	No	Yes	One year	No	Credit card (automatic)	49.95	906.57	No	0
+CUST-0029	Male	0	No	No	22	Yes	Fiber optic	No	Yes	One year	Yes	Mailed check	86.84	1915.85	No	0
+CUST-0030	Female	0	Yes	No	22	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	53.56	1151.2	Yes	1
+CUST-0031	Female	1	No	No	66	No	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	98.25	6483.86	No	0
+CUST-0032	Male	0	Yes	No	54	Yes	DSL	Yes	Yes	One year	Yes	Credit card (automatic)	65.52	3601.77	No	0
+CUST-0033	Female	0	Yes	Yes	53	Yes	No	No	Yes	One year	No	Credit card (automatic)	21.29	1178.08	No	0
+CUST-0034	Female	1	No	No	65	Yes	DSL	Yes	Yes	Month-to-month	Yes	Mailed check	63.74	4047.82	No	0
+CUST-0035	Female	0	Yes	Yes	29	No	DSL	Yes	Yes	Month-to-month	No	Electronic check	67.88	2008.85	No	0
+CUST-0036	Male	0	Yes	No	62	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	86.62	5348.66	No	0
+CUST-0037	Male	0	No	No	62	Yes	No	No	No	Month-to-month	No	Bank transfer (automatic)	19.68	1225.74	No	0
+CUST-0038	Male	1	Yes	No	3	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	87.3	283.17	No	0
+CUST-0039	Female	0	No	Yes	13	Yes	DSL	Yes	No	One year	No	Credit card (automatic)	66.15	852.28	No	0
+CUST-0040	Female	0	Yes	No	24	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	57.48	1369.25	No	0
+CUST-0041	Female	1	Yes	No	11	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	87.68	962.07	Yes	1
+CUST-0042	Female	0	No	No	27	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	64.78	1780.53	No	0
+CUST-0043	Female	0	No	Yes	56	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	81.13	4533.34	No	0
+CUST-0044	Male	0	No	Yes	8	Yes	DSL	No	No	Month-to-month	No	Credit card (automatic)	49.9	360.91	Yes	1
+CUST-0045	Female	0	Yes	No	51	Yes	DSL	Yes	No	Two year	Yes	Credit card (automatic)	50.61	2543.08	No	0
+CUST-0046	Female	1	No	No	18	Yes	DSL	No	No	One year	Yes	Credit card (automatic)	55.35	1004.01	No	0
+CUST-0047	Female	1	Yes	No	38	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Credit card (automatic)	85.59	3285.58	No	0
+CUST-0048	Male	0	No	Yes	53	No	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	18.9	989.13	No	0
+CUST-0049	Male	0	No	No	34	Yes	Fiber optic	Yes	No	One year	Yes	Bank transfer (automatic)	78.69	2758.26	No	0
+CUST-0050	Male	0	Yes	Yes	41	Yes	DSL	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	54.27	2267.53	Yes	1
+CUST-0051	Female	0	No	No	1	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	75.76	76.62	Yes	1
+CUST-0052	Female	0	Yes	No	44	Yes	DSL	No	Yes	Month-to-month	Yes	Mailed check	51.42	2271.87	No	0
+CUST-0053	Male	1	Yes	Yes	12	Yes	Fiber optic	Yes	No	One year	Yes	Mailed check	90.98	1088.56	No	0
+CUST-0054	Male	0	No	No	22	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	61.96	1423.06	Yes	1
+CUST-0055	Female	0	No	No	61	Yes	DSL	Yes	Yes	Month-to-month	No	Bank transfer (automatic)	60.81	3743.91	No	0
+CUST-0056	Male	0	Yes	No	35	Yes	Fiber optic	No	No	Month-to-month	No	Credit card (automatic)	83.3	2941.32	Yes	1
+CUST-0057	Male	0	No	No	3	Yes	Fiber optic	Yes	Yes	One year	No	Electronic check	91.62	264.38	No	0
+CUST-0058	Female	0	Yes	No	62	Yes	DSL	No	No	One year	Yes	Electronic check	58.16	3539.18	No	0
+CUST-0059	Male	1	No	No	52	Yes	Fiber optic	Yes	No	Month-to-month	No	Credit card (automatic)	95.39	4979.18	No	0
+CUST-0060	Female	1	No	No	70	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	87.3	6115.7	No	0
+CUST-0061	Male	1	No	No	21	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	61.19	1275.8	No	0
+CUST-0062	Male	0	Yes	No	60	Yes	Fiber optic	Yes	Yes	One year	Yes	Mailed check	89.17	5349.11	No	0
+CUST-0063	Male	0	No	Yes	34	Yes	Fiber optic	No	No	Two year	Yes	Bank transfer (automatic)	91.98	3191.83	No	0
+CUST-0064	Male	0	Yes	No	10	Yes	Fiber optic	Yes	No	Two year	Yes	Bank transfer (automatic)	86.23	845.64	Yes	1
+CUST-0065	Female	0	No	No	30	Yes	No	No	No	Two year	Yes	Credit card (automatic)	29.59	860.01	No	0
+CUST-0066	Male	0	Yes	No	49	No	Fiber optic	No	Yes	Month-to-month	Yes	Mailed check	83.64	4100.7	No	0
+CUST-0067	Female	0	No	No	2	Yes	Fiber optic	No	No	Month-to-month	No	Bank transfer (automatic)	77.41	150.34	Yes	1
+CUST-0068	Female	0	No	No	56	Yes	Fiber optic	No	No	One year	No	Electronic check	85.77	4886.86	No	0
+CUST-0069	Female	1	Yes	No	19	Yes	Fiber optic	No	No	Two year	No	Mailed check	80.74	1457.33	Yes	1
+CUST-0070	Male	0	Yes	No	35	Yes	No	No	No	Month-to-month	Yes	Mailed check	36.97	1245.71	No	0
+CUST-0071	Male	1	Yes	No	20	Yes	DSL	No	No	Two year	No	Bank transfer (automatic)	57.84	1187.26	No	0
+CUST-0072	Male	0	No	No	57	Yes	Fiber optic	Yes	No	One year	Yes	Credit card (automatic)	85.6	4818.41	No	0
+CUST-0073	Female	0	Yes	Yes	45	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	36.2	1643.88	No	0
+CUST-0074	Male	0	Yes	Yes	18	Yes	DSL	Yes	No	Month-to-month	No	Credit card (automatic)	57.9	1084.83	No	0
+CUST-0075	Female	0	No	Yes	20	No	No	No	No	Month-to-month	No	Electronic check	25.93	511.5	Yes	1
+CUST-0076	Male	0	No	Yes	53	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	85.65	4540.87	No	0
+CUST-0077	Male	0	No	No	42	Yes	DSL	No	No	One year	Yes	Bank transfer (automatic)	60.6	2649.01	No	0
+CUST-0078	Male	1	Yes	No	36	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	80.6	2910.43	Yes	1
+CUST-0079	Female	0	Yes	No	55	Yes	Fiber optic	No	Yes	One year	Yes	Electronic check	96.46	5311.86	No	0
+CUST-0080	Male	0	No	Yes	23	Yes	Fiber optic	No	No	Two year	No	Electronic check	82.72	1975.07	No	0
+CUST-0081	Male	0	No	Yes	27	Yes	Fiber optic	Yes	Yes	One year	No	Credit card (automatic)	95.03	2540.78	No	0
+CUST-0082	Male	0	Yes	No	37	Yes	No	Yes	No	Two year	No	Electronic check	19.32	747.39	No	0
+CUST-0083	Male	0	No	No	21	No	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	80.85	1669.91	Yes	1
+CUST-0084	Female	0	No	No	48	Yes	Fiber optic	No	No	Two year	Yes	Bank transfer (automatic)	89.69	4326.57	No	0
+CUST-0085	Female	1	No	No	34	Yes	Fiber optic	No	Yes	Two year	No	Electronic check	89.14	3092.16	No	0
+CUST-0086	Male	0	No	No	39	Yes	No	No	Yes	One year	Yes	Mailed check	28.22	1065.47	No	0
+CUST-0087	Male	0	Yes	No	3	Yes	Fiber optic	No	Yes	One year	Yes	Mailed check	86.48	243.56	Yes	1
+CUST-0088	Female	0	Yes	No	48	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	98.56	4683.15	Yes	1
+CUST-0089	Female	0	Yes	Yes	1	No	No	Yes	Yes	Two year	No	Bank transfer (automatic)	21.91	47.91	No	0
+CUST-0090	Female	0	No	Yes	59	Yes	DSL	No	Yes	Month-to-month	No	Electronic check	58.41	3449.82	Yes	1
+CUST-0091	Female	0	Yes	No	21	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	83.94	1744.17	Yes	1
+CUST-0092	Female	0	No	No	55	Yes	DSL	No	No	One year	Yes	Electronic check	60.14	3254.82	No	0
+CUST-0093	Female	0	No	No	25	Yes	DSL	Yes	Yes	One year	Yes	Bank transfer (automatic)	63.5	1607.69	No	0
+CUST-0094	Male	0	Yes	Yes	22	Yes	No	No	Yes	Month-to-month	Yes	Credit card (automatic)	23.61	437.16	No	0
+CUST-0095	Female	0	Yes	No	25	Yes	Fiber optic	No	No	Month-to-month	No	Bank transfer (automatic)	81.89	2025.1	No	0
+CUST-0096	Male	0	No	No	65	Yes	No	Yes	No	Two year	No	Credit card (automatic)	33.95	2164.62	No	0
+CUST-0097	Female	0	No	No	59	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	37.25	2130.59	Yes	1
+CUST-0098	Male	0	Yes	Yes	14	Yes	DSL	Yes	No	One year	Yes	Electronic check	48.97	616.98	No	0
+CUST-0099	Female	0	No	No	62	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	58.75	3677.79	No	0
+CUST-0100	Female	0	No	Yes	46	Yes	No	Yes	Yes	Month-to-month	No	Electronic check	29.57	1430.82	No	0
+CUST-0101	Male	0	No	No	30	Yes	Fiber optic	No	Yes	Month-to-month	No	Bank transfer (automatic)	93.39	2771.24	Yes	1
+CUST-0102	Female	1	Yes	Yes	61	Yes	No	No	Yes	One year	Yes	Credit card (automatic)	24.82	1491.29	No	0
+CUST-0103	Male	0	Yes	No	54	Yes	Fiber optic	Yes	No	Two year	Yes	Electronic check	90.56	4895.95	No	0
+CUST-0104	Female	0	No	No	65	No	Fiber optic	No	No	Month-to-month	Yes	Mailed check	92.96	6043.02	No	0
+CUST-0105	Female	0	Yes	Yes	32	No	Fiber optic	Yes	No	Two year	Yes	Bank transfer (automatic)	83.97	2716.13	No	0
+CUST-0106	Male	0	No	No	15	Yes	No	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	34.53	512.18	No	0
+CUST-0107	Male	1	No	No	42	Yes	No	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	24.39	1050.11	Yes	1
+CUST-0108	Male	0	No	No	31	Yes	Fiber optic	No	No	One year	Yes	Electronic check	78.69	2445.23	No	0
+CUST-0109	Male	0	Yes	No	24	No	No	Yes	Yes	One year	Yes	Electronic check	23.3	592.63	No	0
+CUST-0110	Female	1	Yes	No	44	Yes	Fiber optic	Yes	No	One year	No	Bank transfer (automatic)	85.69	3775.4	No	0
+CUST-0111	Female	1	No	No	4	Yes	DSL	No	No	Two year	Yes	Mailed check	74.46	290.16	Yes	1
+CUST-0112	Female	0	No	Yes	55	Yes	Fiber optic	Yes	No	Month-to-month	No	Credit card (automatic)	86.63	4785.86	Yes	1
+CUST-0113	Female	0	No	No	38	Yes	Fiber optic	Yes	Yes	Two year	Yes	Mailed check	91.03	3444.33	No	0
+CUST-0114	Female	0	Yes	No	32	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	85.02	2723.51	No	0
+CUST-0115	Female	1	No	No	43	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	81	3514.49	No	0
+CUST-0116	Male	0	Yes	No	40	Yes	Fiber optic	No	Yes	Month-to-month	No	Bank transfer (automatic)	83.75	3307.34	No	0
+CUST-0117	Male	0	No	No	68	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	88.62	6040.1	Yes	1
+CUST-0118	Male	0	Yes	Yes	36	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	88.09	3143.16	Yes	1
+CUST-0119	Male	0	No	Yes	32	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	94.76	3010.48	Yes	1
+CUST-0120	Male	0	No	No	42	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	86.38	3612.35	Yes	1
+CUST-0121	Female	0	No	No	38	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	60.23	2280.99	No	0
+CUST-0122	Male	0	Yes	No	41	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	49.48	1996.7	No	0
+CUST-0123	Male	0	No	Yes	18	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	75.68	1390.52	Yes	1
+CUST-0124	Female	0	No	No	70	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	85.18	2060.275	No	0
+CUST-0125	Female	0	Yes	No	19	Yes	Fiber optic	Yes	No	One year	Yes	Bank transfer (automatic)	87.33	1655.26	No	0
+CUST-0126	Male	1	Yes	Yes	17	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	79.28	1411.58	No	0
+CUST-0127	Female	0	No	No	15	Yes	DSL	No	No	One year	No	Bank transfer (automatic)	58.84	885.97	Yes	1
+CUST-0128	Female	0	No	No	21	Yes	No	Yes	No	One year	No	Credit card (automatic)	20.1	464.22	No	0
+CUST-0129	Female	0	No	Yes	32	Yes	DSL	No	No	One year	No	Electronic check	60.58	1911.98	No	0
+CUST-0130	Male	0	No	No	17	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	50.05	872.68	Yes	1
+CUST-0131	Male	1	Yes	No	53	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Electronic check	96.39	5162.87	No	0
+CUST-0132	Female	0	No	Yes	31	Yes	No	Yes	No	One year	Yes	Electronic check	18	584.78	No	0
+CUST-0133	Male	0	Yes	Yes	35	No	Fiber optic	Yes	No	Month-to-month	No	Mailed check	74.61	2573.59	Yes	1
+CUST-0134	Male	0	No	Yes	26	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	99.61	2567.14	No	0
+CUST-0135	Female	0	Yes	No	36	Yes	Fiber optic	Yes	No	Two year	Yes	Mailed check	77.23	2765.56	No	0
+CUST-0136	Male	0	Yes	No	20	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	44.41	888.28	Yes	1
+CUST-0137	Male	0	Yes	No	52	Yes	DSL	No	No	Month-to-month	No	Mailed check	59.94	3081.57	No	0
+CUST-0138	Female	0	Yes	No	33	Yes	DSL	Yes	No	One year	No	Electronic check	44.66	1430.6	No	0
+CUST-0139	Male	0	No	No	6	No	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	20.24	103.9	No	0
+CUST-0140	Male	0	Yes	No	27	No	DSL	No	Yes	One year	No	Credit card (automatic)	56.15	1505.1	No	0
+CUST-0141	Female	0	No	No	47	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	75.89	3583.33	Yes	1
+CUST-0142	Male	0	No	No	20	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	51.99	1039.63	No	0
+CUST-0143	Female	0	Yes	No	47	Yes	DSL	Yes	No	One year	Yes	Credit card (automatic)	53.53	2448.11	No	0
+CUST-0144	Male	0	Yes	No	9	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	61.94	595.56	Yes	1
+CUST-0145	Male	0	No	Yes	3	Yes	DSL	No	Yes	Month-to-month	No	Mailed check	68.47	212.94	No	0
+CUST-0146	Female	0	No	No	12	Yes	DSL	Yes	Yes	One year	Yes	Credit card (automatic)	62.6	776.9	No	0
+CUST-0147	Female	1	Yes	No	38	Yes	DSL	No	No	Two year	Yes	Bank transfer (automatic)	54.02	2005.11	No	0
+CUST-0148	Male	0	Yes	No	60	Yes	No	Yes	Yes	Month-to-month	Yes	Electronic check	25.51	1584.02	No	0
+CUST-0149	Male	0	Yes	Yes	55	No	No	Yes	Yes	Two year	Yes	Electronic check	35.98	2027.23	No	0
+CUST-0150	Female	0	No	Yes	69	Yes	DSL	Yes	Yes	Month-to-month	No	Electronic check	65.97	4551.59	No	0
+CUST-0151	Female	1	Yes	No	67	Yes	Fiber optic	No	No	One year	Yes	Bank transfer (automatic)	93.96	6265.59	No	0
+CUST-0152	Male	0	No	Yes	46	Yes	DSL	No	No	Two year	No	Electronic check	38.76	1727.36	No	0
+CUST-0153	Female	1	No	No	6	Yes	Fiber optic	Yes	No	Two year	No	Bank transfer (automatic)	74.51	445.24	Yes	1
+CUST-0154	Male	0	Yes	No	72	Yes	DSL	No	No	Month-to-month	Yes	Mailed check	52.65	3787.16	No	0
+CUST-0155	Female	0	Yes	No	38	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Credit card (automatic)	108	4081.38	No	0
+CUST-0156	Female	0	No	No	14	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	88.31	1196.15	Yes	1
+CUST-0157	Female	0	No	No	8	Yes	DSL	Yes	No	Month-to-month	Yes	Credit card (automatic)	60.08	463.69	Yes	1
+CUST-0158	Male	0	No	Yes	54	Yes	DSL	Yes	No	Two year	Yes	Electronic check	65.13	3536.34	No	0
+CUST-0159	Male	0	No	No	18	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	64.92	1209.71	Yes	1
+CUST-0160	Male	1	Yes	No	51	Yes	Fiber optic	Yes	Yes	Two year	No	Electronic check	91.12	4570.78	No	0
+CUST-0161	Male	0	No	No	31	Yes	No	No	No	Two year	No	Electronic check	28.7	882.71	No	0
+CUST-0162	Male	0	Yes	No	65	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	95.94	6176.4	No	0
+CUST-0163	Female	0	Yes	Yes	23	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	78.52	1871.46	No	0
+CUST-0164	Female	0	Yes	Yes	53	Yes	Fiber optic	Yes	No	One year	Yes	Credit card (automatic)	88.5	4745.82	Yes	1
+CUST-0165	Female	0	Yes	No	54	Yes	DSL	No	No	Two year	Yes	Electronic check	53.94	2894.35	No	0
+CUST-0166	Male	0	No	No	67	Yes	DSL	No	Yes	Month-to-month	Yes	Credit card (automatic)	58.42	3879.15	No	0
+CUST-0167	Male	0	No	Yes	18	Yes	DSL	No	No	Month-to-month	Yes	Mailed check	57.46	981.63	Yes	1
+CUST-0168	Male	0	No	Yes	5	Yes	No	No	No	Month-to-month	No	Electronic check	20.74	57.05	No	0
+CUST-0169	Female	0	Yes	No	38	Yes	DSL	No	No	One year	Yes	Electronic check	58.4	2238.57	No	0
+CUST-0170	Male	0	Yes	No	24	Yes	DSL	Yes	Yes	Two year	Yes	Bank transfer (automatic)	54.58	1287.13	No	0
+CUST-0171	Male	0	Yes	Yes	59	Yes	Fiber optic	Yes	Yes	One year	Yes	Electronic check	95.22	5645.21	No	0
+CUST-0172	Female	0	Yes	No	23	Yes	No	No	No	Two year	Yes	Bank transfer (automatic)	20.69	509.67	No	0
+CUST-0173	Male	1	No	No	69	Yes	DSL	No	Yes	Month-to-month	No	Mailed check	52.95	3635.71	No	0
+CUST-0174	Female	1	No	No	18	Yes	DSL	No	Yes	One year	Yes	Mailed check	60.51	1073.71	No	0
+CUST-0175	Female	0	No	Yes	65	Yes	DSL	No	No	Two year	Yes	Electronic check	58.91	3847.52	No	0
+CUST-0176	Female	0	No	No	61	Yes	No	Yes	No	One year	Yes	Mailed check	18	1162.29	No	0
+CUST-0177	Male	0	No	Yes	35	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	88.28	3090.78	Yes	1
+CUST-0178	Female	0	Yes	No	47	Yes	DSL	No	No	One year	Yes	Electronic check	59.61	2801.17	No	0
+CUST-0179	Female	0	No	No	42	Yes	DSL	Yes	Yes	Two year	No	Mailed check	55.75	2350.45	No	0
+CUST-0180	Female	0	Yes	No	29	Yes	DSL	Yes	No	Month-to-month	No	Bank transfer (automatic)	49.83	1394.32	Yes	1
+CUST-0181	Male	0	No	Yes	36	Yes	Fiber optic	Yes	No	One year	Yes	Bank transfer (automatic)	85.22	3095.11	No	0
+CUST-0182	Female	0	Yes	Yes	14	No	DSL	Yes	No	Month-to-month	Yes	Electronic check	58.98	768.12	No	0
+CUST-0183	Male	0	No	No	66	Yes	No	No	No	Month-to-month	Yes	Mailed check	27.23	1799.04	No	0
+CUST-0184	Female	0	No	No	65	Yes	Fiber optic	Yes	No	Two year	Yes	Mailed check	89.12	5820.92	No	0
+CUST-0185	Female	0	Yes	No	41	No	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	91.37	3804.48	No	0
+CUST-0186	Male	0	Yes	Yes	20	No	Fiber optic	Yes	No	Two year	Yes	Electronic check	84.3	1720.76	No	0
+CUST-0187	Male	0	No	No	17	Yes	DSL	No	Yes	One year	No	Credit card (automatic)	51.57	841.48	No	0
+CUST-0188	Male	0	No	No	33	No	Fiber optic	Yes	Yes	Two year	No	Mailed check	82.23	2734.84	No	0
+CUST-0189	Male	0	No	No	40	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	89.76	3593.44	No	0
+CUST-0190	Male	1	No	Yes	63	Yes	DSL	No	No	Month-to-month	No	Bank transfer (automatic)	55.39	3483.99	No	0
+CUST-0191	Male	0	Yes	Yes	22	Yes	No	Yes	Yes	Month-to-month	No	Electronic check	19.48	395.5	No	0
+CUST-0192	Male	0	Yes	No	2	Yes	DSL	No	Yes	Month-to-month	No	Electronic check	53.48	117.64	Yes	1
+CUST-0193	Female	0	Yes	No	64	No	Fiber optic	Yes	Yes	Month-to-month	No	Bank transfer (automatic)	100.36	6379.11	No	0
+CUST-0194	Female	0	Yes	No	43	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	94.79	4041.4	Yes	1
+CUST-0195	Male	0	No	No	21	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	74.44	1502.6	Yes	1
+CUST-0196	Male	0	Yes	Yes	1	Yes	Fiber optic	No	Yes	Month-to-month	No	Bank transfer (automatic)	99.9	142.11	Yes	1
+CUST-0197	Male	1	No	No	23	Yes	No	No	No	One year	No	Electronic check	18	394.06	No	0
+CUST-0198	Male	0	No	No	15	Yes	No	No	No	Month-to-month	Yes	Electronic check	20.3	242.27	No	0
+CUST-0199	Male	1	Yes	No	69	Yes	Fiber optic	No	Yes	Month-to-month	No	Mailed check	93.79	6549.64	No	0
+CUST-0200	Male	1	No	Yes	30	Yes	DSL	Yes	Yes	Month-to-month	No	Electronic check	67.54	2013.21	Yes	1
+CUST-0201	Female	1	Yes	No	16	Yes	Fiber optic	Yes	Yes	Two year	Yes	Electronic check	92.22	1532	Yes	1
+CUST-0202	Female	0	Yes	No	29	Yes	DSL	Yes	No	One year	Yes	Mailed check	38.9	1079.32	No	0
+CUST-0203	Male	0	Yes	No	38	Yes	Fiber optic	No	Yes	Two year	Yes	Bank transfer (automatic)	90.35	3495.33	No	0
+CUST-0204	Female	0	Yes	Yes	32	Yes	No	No	No	Month-to-month	No	Electronic check	18	633.92	No	0
+CUST-0205	Male	0	Yes	No	26	Yes	DSL	No	Yes	Month-to-month	No	Credit card (automatic)	73.99	1916.22	No	0
+CUST-0206	Male	0	No	No	60	Yes	No	No	Yes	Month-to-month	Yes	Mailed check	21.53	1251.72	No	0
+CUST-0207	Male	0	Yes	No	11	Yes	DSL	No	No	Two year	Yes	Mailed check	63.14	685.67	No	0
+CUST-0208	Male	0	No	No	66	Yes	Fiber optic	No	No	Two year	Yes	Credit card (automatic)	92.91	6144.42	No	0
+CUST-0209	Male	0	Yes	No	15	Yes	DSL	Yes	No	Month-to-month	No	Bank transfer (automatic)	55.02	808.79	Yes	1
+CUST-0210	Female	0	Yes	No	27	Yes	DSL	Yes	No	Month-to-month	No	Electronic check	61.28	1722.98	No	0
+CUST-0211	Male	0	Yes	No	27	No	DSL	No	Yes	Two year	No	Electronic check	58.84	1582.42	No	0
+CUST-0212	Female	0	Yes	Yes	55	No	No	Yes	Yes	Month-to-month	Yes	Mailed check	21.92	1205.21	No	0
+CUST-0213	Male	0	No	No	63	Yes	No	No	No	One year	No	Electronic check	18	1122.28	No	0
+CUST-0214	Female	0	Yes	No	62	Yes	No	Yes	Yes	One year	Yes	Bank transfer (automatic)	27.02	1611.75	No	0
+CUST-0215	Male	0	No	No	46	Yes	Fiber optic	Yes	Yes	One year	Yes	Mailed check	87.19	4009.36	No	0
+CUST-0216	Male	1	No	No	53	Yes	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	62.48	3340.51	No	0
+CUST-0217	Female	0	No	No	23	No	DSL	Yes	Yes	Two year	Yes	Mailed check	71.48	1654.32	No	0
+CUST-0218	Female	0	No	Yes	22	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	102.83	2312.84	Yes	1
+CUST-0219	Female	0	Yes	Yes	34	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	53.58	1869.47	No	0
+CUST-0220	Male	0	No	Yes	22	Yes	Fiber optic	Yes	No	One year	Yes	Mailed check	87.3	1849.08	No	0
+CUST-0221	Female	0	Yes	Yes	11	Yes	No	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	31.31	397.67	Yes	1
+CUST-0222	Female	0	No	Yes	38	Yes	Fiber optic	Yes	No	One year	Yes	Electronic check	97.49	3732.04	No	0
+CUST-0223	Female	0	No	No	67	Yes	Fiber optic	No	Yes	Two year	No	Mailed check	88.26	5888.34	No	0
+CUST-0224	Female	0	Yes	Yes	31	Yes	Fiber optic	Yes	No	Month-to-month	No	Mailed check	87.9	2695.2	No	0
+CUST-0225	Female	0	No	No	37	Yes	Fiber optic	Yes	No	Two year	No	Electronic check	95.95	3616.99	No	0
+CUST-0226	Male	0	Yes	No	18	Yes	DSL	Yes	Yes	Two year	Yes	Electronic check	72.01	1265.96	No	0
+CUST-0227	Male	0	No	No	30	No	No	No	No	One year	Yes	Electronic check	18	554.4	Yes	1
+CUST-0228	Male	0	Yes	No	38	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	85.63	3286.65	Yes	1
+CUST-0229	Male	0	No	No	36	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Credit card (automatic)	81.75	2947.98	Yes	1
+CUST-0230	Female	1	No	Yes	10	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	55.89	539.76	Yes	1
+CUST-0231	Male	0	No	No	52	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	95.95	4977.35	No	0
+CUST-0232	Female	0	Yes	No	29	Yes	No	No	No	Month-to-month	Yes	Electronic check	21.73	611.1	No	0
+CUST-0233	Male	0	No	Yes	29	Yes	Fiber optic	Yes	No	Two year	No	Bank transfer (automatic)	95.01	2697.93	No	0
+CUST-0234	Female	0	No	No	31	Yes	Fiber optic	No	Yes	One year	Yes	Mailed check	92.2	2883.48	No	0
+CUST-0235	Male	0	Yes	No	60	Yes	DSL	Yes	No	One year	No	Mailed check	66.69	4032.13	No	0
+CUST-0236	Female	0	Yes	Yes	6	Yes	DSL	No	No	Month-to-month	No	Bank transfer (automatic)	63	389.55	Yes	1
+CUST-0237	Male	0	Yes	Yes	36	Yes	Fiber optic	No	No	Two year	Yes	Electronic check	84.16	3069.98	No	0
+CUST-0238	Female	0	Yes	No	28	Yes	Fiber optic	Yes	No	Two year	No	Electronic check	80.83	2319.8	No	0
+CUST-0239	Female	0	Yes	No	8	Yes	DSL	No	No	Month-to-month	No	Mailed check	57.56	473.51	Yes	1
+CUST-0240	Female	0	No	Yes	53	Yes	DSL	No	No	Two year	Yes	Bank transfer (automatic)	57.09	3062.22	No	0
+CUST-0241	Female	0	No	No	30	Yes	Fiber optic	No	No	One year	Yes	Electronic check	96.96	2849.66	Yes	1
+CUST-0242	Male	0	No	No	63	Yes	DSL	No	No	One year	Yes	Bank transfer (automatic)	71.66	4540.73	No	0
+CUST-0243	Male	0	Yes	Yes	6	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Mailed check	92.2	577.74	No	0
+CUST-0244	Female	0	No	No	21	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	41.72	949.67	No	0
+CUST-0245	Male	0	No	No	28	Yes	Fiber optic	Yes	No	Month-to-month	No	Mailed check	74.4	2019.09	No	0
+CUST-0246	Female	0	Yes	Yes	48	No	Fiber optic	No	Yes	Month-to-month	No	Credit card (automatic)	81.06	3796.61	No	0
+CUST-0247	Female	0	Yes	No	39	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	45.31	1704.61	No	0
+CUST-0248	Male	1	Yes	No	12	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	89.12	1049.15	Yes	1
+CUST-0249	Female	0	No	No	63	Yes	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	54.18	3408.42	No	0
+CUST-0250	Female	0	Yes	No	19	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	51.97	976.54	No	0
+CUST-0251	Female	0	No	No	23	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	86.73	1963.51	Yes	1
+CUST-0252	Male	0	Yes	Yes	50	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	48.81	2396.65	No	0
+CUST-0253	Male	0	No	No	34	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	80.58	2800.8	Yes	1
+CUST-0254	Female	0	No	Yes	34	Yes	DSL	No	Yes	Month-to-month	Yes	Credit card (automatic)	59.76	1985.69	No	0
+CUST-0255	Female	0	Yes	No	68	Yes	No	No	No	One year	Yes	Bank transfer (automatic)	25.2	1719.07	No	0
+CUST-0256	Male	0	Yes	No	28	Yes	Fiber optic	No	No	Two year	Yes	Credit card (automatic)	93.24	2628.8	No	0
+CUST-0257	Male	0	No	Yes	46	Yes	DSL	Yes	No	Month-to-month	No	Electronic check	54.14	2471.48	Yes	1
+CUST-0258	Male	0	Yes	No	39	Yes	Fiber optic	No	No	Two year	Yes	Credit card (automatic)	98.22	3807.43	Yes	1
+CUST-0259	Male	0	No	No	26	No	Fiber optic	Yes	No	Month-to-month	No	Electronic check	87.6	2272.99	Yes	1
+CUST-0260	Female	1	No	Yes	18	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Electronic check	85.48	1483.41	No	0
+CUST-0261	Male	0	Yes	No	15	Yes	No	No	Yes	Month-to-month	Yes	Electronic check	29.01	473.72	No	0
+CUST-0262	Male	0	Yes	No	30	Yes	Fiber optic	No	No	Month-to-month	No	Credit card (automatic)	89.82	2596.64	No	0
+CUST-0263	Male	0	No	No	30	No	DSL	No	Yes	Month-to-month	Yes	Mailed check	48.57	1505.48	No	0
+CUST-0264	Male	0	No	Yes	37	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	69.04	2517.18	No	0
+CUST-0265	Male	0	No	Yes	27	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	53.33	1456.01	Yes	1
+CUST-0266	Female	0	Yes	No	67	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	51.92	3540.27	No	0
+CUST-0267	Male	0	Yes	No	30	Yes	Fiber optic	No	Yes	One year	Yes	Electronic check	86.08	2530.94	Yes	1
+CUST-0268	Male	0	Yes	Yes	50	Yes	No	No	No	Month-to-month	Yes	Electronic check	27.02	1457.71	Yes	1
+CUST-0269	Female	0	Yes	Yes	56	Yes	No	Yes	Yes	Month-to-month	Yes	Mailed check	18	1033.42	No	0
+CUST-0270	Female	0	Yes	Yes	42	Yes	DSL	Yes	Yes	Month-to-month	No	Credit card (automatic)	46.2	1986.37	No	0
+CUST-0271	Female	0	Yes	No	5	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	79.71	409.93	Yes	1
+CUST-0272	Male	0	No	No	42	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Credit card (automatic)	94.72	3947.31	No	0
+CUST-0273	Male	0	Yes	Yes	15	Yes	DSL	Yes	No	One year	No	Electronic check	59.83	867.19	No	0
+CUST-0274	Female	1	No	No	64	Yes	Fiber optic	Yes	Yes	Two year	Yes	Mailed check	102.29	6478.72	No	0
+CUST-0275	Male	0	Yes	No	20	Yes	Fiber optic	No	No	One year	No	Bank transfer (automatic)	80.27	1598.71	No	0
+CUST-0276	Male	0	No	Yes	53	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	99.45	5267.14	No	0
+CUST-0277	Female	1	Yes	No	9	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	100.91	919.08	No	0
+CUST-0278	Male	0	No	Yes	43	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	100.01	4350.84	No	0
+CUST-0279	Male	1	No	No	58	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	84.42	4930.72	Yes	1
+CUST-0280	Male	0	Yes	No	56	Yes	DSL	No	Yes	One year	Yes	Mailed check	49.21	2780.13	No	0
+CUST-0281	Male	0	Yes	No	51	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	88.35	4490.42	No	0
+CUST-0282	Female	0	No	No	53	Yes	No	No	Yes	Month-to-month	Yes	Credit card (automatic)	25.56	1327.79	Yes	1
+CUST-0283	Male	0	No	Yes	18	Yes	Fiber optic	No	Yes	One year	Yes	Electronic check	69.565	1735.31	No	0
+CUST-0284	Male	0	No	Yes	70	Yes	DSL	Yes	No	Two year	Yes	Bank transfer (automatic)	59.11	4185.17	No	0
+CUST-0285	Male	0	No	No	31	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	88.89	2755.19	Yes	1
+CUST-0286	Male	0	Yes	Yes	44	Yes	Fiber optic	No	No	Two year	Yes	Mailed check	86.59	3803.83	No	0
+CUST-0287	Female	1	Yes	Yes	28	Yes	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	32.57	883.67	No	0
+CUST-0288	Female	0	Yes	Yes	40	Yes	No	No	Yes	Month-to-month	Yes	Electronic check	35.88	1384.86	No	0
+CUST-0289	Female	0	No	Yes	43	Yes	Fiber optic	No	No	Two year	Yes	Credit card (automatic)	95.27	4157.72	No	0
+CUST-0290	Male	0	Yes	No	50	Yes	DSL	Yes	No	Month-to-month	No	Bank transfer (automatic)	65.82	3253.42	No	0
+CUST-0291	Male	1	No	No	10	Yes	DSL	Yes	No	One year	No	Credit card (automatic)	60.3	601.1	No	0
+CUST-0292	Male	0	No	No	31	Yes	No	Yes	No	Two year	Yes	Bank transfer (automatic)	18	587.28	No	0
+CUST-0293	Male	0	No	Yes	51	Yes	No	Yes	No	One year	Yes	Electronic check	30.97	1625.16	No	0
+CUST-0294	Male	0	Yes	No	47	Yes	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	53.57	2562.41	No	0
+CUST-0295	Female	1	Yes	No	28	Yes	DSL	Yes	No	Month-to-month	Yes	Credit card (automatic)	61.61	1692.21	No	0
+CUST-0296	Male	0	No	No	26	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	63.33	1662.64	No	0
+CUST-0297	Male	0	Yes	No	43	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	78.48	3399.39	Yes	1
+CUST-0298	Female	0	No	No	63	Yes	No	Yes	Yes	Month-to-month	No	Bank transfer (automatic)	18	1122.46	No	0
+CUST-0299	Female	0	Yes	No	26	Yes	No	Yes	No	Month-to-month	No	Credit card (automatic)	18	449.07	No	0
+CUST-0300	Female	0	No	No	11	No	DSL	No	No	Month-to-month	No	Mailed check	64.83	732.72	Yes	1
+CUST-0301	Female	0	Yes	No	43	Yes	Fiber optic	No	Yes	One year	Yes	Credit card (automatic)	90.19	3900.29	No	0
+CUST-0302	Male	0	No	No	35	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	88.54	3079.26	Yes	1
+CUST-0303	Female	1	No	No	60	Yes	Fiber optic	No	Yes	Month-to-month	No	Electronic check	79.06	4714.79	No	0
+CUST-0304	Female	1	Yes	No	59	Yes	No	No	No	Month-to-month	Yes	Credit card (automatic)	24.89	1414.59	No	0
+CUST-0305	Female	0	Yes	Yes	48	Yes	Fiber optic	No	Yes	Month-to-month	No	Credit card (automatic)	91.47	4476.79	No	0
+CUST-0306	Female	0	Yes	No	63	Yes	Fiber optic	No	Yes	Month-to-month	No	Electronic check	104.29	6543.7	No	0
+CUST-0307	Female	0	Yes	No	18	Yes	DSL	Yes	No	Month-to-month	Yes	Credit card (automatic)	64.36	1185.93	Yes	1
+CUST-0308	Male	0	Yes	No	59	Yes	No	No	Yes	One year	No	Electronic check	22.79	1343.52	No	0
+CUST-0309	Male	0	Yes	Yes	54	Yes	Fiber optic	No	No	One year	Yes	Mailed check	87.37	4663.11	No	0
+CUST-0310	Male	0	Yes	No	28	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	51.59	1444.5	Yes	1
+CUST-0311	Male	0	No	Yes	9	Yes	DSL	No	Yes	One year	Yes	Mailed check	58.63	547.9	Yes	1
+CUST-0312	Female	0	No	Yes	9	Yes	No	No	No	Month-to-month	Yes	Credit card (automatic)	35.86	291.12	Yes	1
+CUST-0313	Female	0	No	No	20	Yes	Fiber optic	Yes	No	Month-to-month	No	Mailed check	81.63	1630.45	Yes	1
+CUST-0314	Female	0	No	No	62	Yes	Fiber optic	No	Yes	One year	Yes	Bank transfer (automatic)	103.81	6437.55	No	0
+CUST-0315	Male	0	No	No	1	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	72.79	92.25	No	0
+CUST-0316	Male	0	Yes	Yes	50	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	74.22	3725.01	No	0
+CUST-0317	Male	0	Yes	No	5	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	90.62	432.47	No	0
+CUST-0318	Female	0	Yes	Yes	18	No	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	89.17	1586.66	Yes	1
+CUST-0319	Female	0	Yes	No	49	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	77.38	3758.66	No	0
+CUST-0320	Male	1	No	No	28	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	44.7	1253.09	No	0
+CUST-0321	Male	0	Yes	No	25	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	88.77	2223.25	No	0
+CUST-0322	Female	0	No	No	3	Yes	Fiber optic	Yes	No	Month-to-month	No	Electronic check	68.07	223.78	Yes	1
+CUST-0323	Female	0	No	Yes	58	Yes	No	Yes	Yes	One year	Yes	Credit card (automatic)	20.62	1203.02	No	0
+CUST-0324	Male	1	No	No	39	Yes	No	No	No	Two year	Yes	Electronic check	28.88	1163.9	Yes	1
+CUST-0325	Male	0	No	No	47	Yes	DSL	No	Yes	One year	Yes	Bank transfer (automatic)	60.51	2775.96	No	0
+CUST-0326	Male	0	Yes	No	41	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	95.35	3864.09	Yes	1
+CUST-0327	Female	0	No	No	53	Yes	No	No	Yes	Two year	Yes	Bank transfer (automatic)	18	906.91	No	0
+CUST-0328	Female	0	No	Yes	67	Yes	No	No	No	Month-to-month	No	Bank transfer (automatic)	18	1129.71	No	0
+CUST-0329	Female	0	No	No	25	Yes	Fiber optic	Yes	Yes	One year	No	Electronic check	86.53	2167.13	No	0
+CUST-0330	Male	1	Yes	No	26	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	80.44	2104.89	No	0
+CUST-0331	Male	0	Yes	Yes	46	Yes	No	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	34.66	1592.31	No	0
+CUST-0332	Female	1	No	No	18	Yes	Fiber optic	Yes	Yes	One year	Yes	Electronic check	83.49	1545.1	No	0
+CUST-0333	Female	1	No	Yes	18	Yes	No	No	No	Month-to-month	Yes	Electronic check	18	396.18	No	0
+CUST-0334	Female	0	No	No	47	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	58.57	2742.91	No	0
+CUST-0335	Male	0	Yes	Yes	32	Yes	DSL	No	No	Month-to-month	No	Mailed check	49.25	1577.61	No	0
+CUST-0336	Male	1	Yes	Yes	33	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	81.51	2686.82	No	0
+CUST-0337	Male	0	No	No	26	Yes	DSL	Yes	No	Two year	Yes	Credit card (automatic)	60.87	1477.72	No	0
+CUST-0338	Female	0	No	Yes	51	No	Fiber optic	Yes	Yes	Two year	No	Electronic check	92.89	4718.87	No	0
+CUST-0339	Male	0	No	No	43	Yes	Fiber optic	Yes	Yes	Two year	Yes	Electronic check	93.68	4032.35	No	0
+CUST-0340	Male	0	No	No	2	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	92.52	155.58	Yes	1
+CUST-0341	Female	0	No	No	47	Yes	DSL	No	No	One year	Yes	Electronic check	56.18	2665.7	No	0
+CUST-0342	Female	0	No	No	16	Yes	DSL	Yes	Yes	Month-to-month	No	Mailed check	64.74	1025.55	No	0
+CUST-0343	Male	0	No	No	58	No	Fiber optic	Yes	Yes	Two year	Yes	Credit card (automatic)	96.61	5630.8	No	0
+CUST-0344	Female	0	Yes	Yes	40	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Credit card (automatic)	93.3	3643	Yes	1
+CUST-0345	Male	0	No	Yes	39	Yes	No	Yes	Yes	Two year	Yes	Electronic check	27.12	1020.78	No	0
+CUST-0346	Male	1	No	No	9	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	59.23	516.66	Yes	1
+CUST-0347	Male	0	No	No	66	Yes	Fiber optic	No	No	Two year	Yes	Bank transfer (automatic)	91.45	6079.47	No	0
+CUST-0348	Male	0	Yes	Yes	67	Yes	No	Yes	No	Month-to-month	No	Bank transfer (automatic)	18.04	1221.25	No	0
+CUST-0349	Male	0	No	No	53	Yes	Fiber optic	No	Yes	One year	Yes	Bank transfer (automatic)	90.57	4768.69	No	0
+CUST-0350	Female	0	Yes	Yes	35	Yes	No	No	No	Month-to-month	Yes	Electronic check	18.29	694.97	Yes	1
+CUST-0351	Male	0	No	No	37	Yes	DSL	No	No	Month-to-month	No	Credit card (automatic)	58.61	2226.67	Yes	1
+CUST-0352	Male	0	No	No	21	No	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	65.48	1369.55	No	0
+CUST-0353	Female	1	Yes	No	20	Yes	DSL	Yes	No	One year	Yes	Bank transfer (automatic)	54.67	1101.33	No	0
+CUST-0354	Female	0	Yes	No	49	Yes	DSL	No	Yes	Month-to-month	Yes	Credit card (automatic)	76.24	3667.1	No	0
+CUST-0355	Female	0	Yes	Yes	36	Yes	DSL	Yes	Yes	One year	No	Bank transfer (automatic)	67.75	2432.07	No	0
+CUST-0356	Female	0	Yes	No	39	Yes	No	Yes	No	Two year	No	Credit card (automatic)	18	724	No	0
+CUST-0357	Female	0	No	Yes	55	Yes	No	No	Yes	Month-to-month	Yes	Mailed check	28.47	1590.95	No	0
+CUST-0358	Male	0	No	Yes	55	Yes	No	No	Yes	One year	Yes	Credit card (automatic)	19.82	1125.23	No	0
+CUST-0359	Female	0	Yes	Yes	46	Yes	No	No	No	Month-to-month	Yes	Electronic check	27.1	1265.95	No	0
+CUST-0360	Female	0	Yes	No	53	Yes	DSL	No	Yes	Month-to-month	No	Mailed check	66.65	3514.36	No	0
+CUST-0361	Male	1	No	No	58	No	No	No	Yes	Two year	No	Electronic check	25.95	1485.46	No	0
+CUST-0362	Female	1	No	No	27	Yes	Fiber optic	Yes	No	Month-to-month	No	Mailed check	73.7	2060.53	No	0
+CUST-0363	Male	0	No	No	20	Yes	Fiber optic	No	No	One year	No	Electronic check	89.9	2060.275	No	0
+CUST-0364	Male	0	No	No	1	Yes	Fiber optic	Yes	No	Two year	Yes	Bank transfer (automatic)	92.56	108.96	Yes	1
+CUST-0365	Male	0	Yes	No	63	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	99.87	6357.43	No	0
+CUST-0366	Male	0	Yes	Yes	23	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	82.62	1899.17	No	0
+CUST-0367	Male	1	Yes	Yes	31	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	64.32	2027.94	No	0
+CUST-0368	Male	0	No	No	43	Yes	No	Yes	Yes	Two year	Yes	Mailed check	25.17	1007.03	No	0
+CUST-0369	Male	1	No	No	30	Yes	DSL	No	Yes	Two year	Yes	Credit card (automatic)	53.89	1604.48	No	0
+CUST-0370	Female	0	No	No	36	Yes	No	No	No	Month-to-month	No	Mailed check	20.77	729.52	No	0
+CUST-0371	Male	0	No	No	28	Yes	Fiber optic	No	No	One year	No	Credit card (automatic)	75.63	2078.52	Yes	1
+CUST-0372	Male	0	No	Yes	9	Yes	DSL	Yes	Yes	One year	No	Mailed check	67.69	628.44	No	0
+CUST-0373	Male	0	Yes	No	62	Yes	DSL	Yes	No	Two year	Yes	Bank transfer (automatic)	47.51	2972.86	No	0
+CUST-0374	Female	0	No	No	6	Yes	Fiber optic	No	No	One year	Yes	Electronic check	105.66	559.78	No	0
+CUST-0375	Female	0	No	No	57	Yes	DSL	Yes	No	One year	Yes	Mailed check	85.9	4980.68	No	0
+CUST-0376	Male	1	Yes	No	24	Yes	Fiber optic	Yes	No	One year	Yes	Mailed check	76.23	1807.53	No	0
+CUST-0377	Male	0	Yes	Yes	12	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	67.24	799.89	No	0
+CUST-0378	Male	1	Yes	No	54	Yes	No	No	No	Month-to-month	Yes	Mailed check	27.07	1474.52	Yes	1
+CUST-0379	Male	0	No	No	1	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Bank transfer (automatic)	93.68	18	No	0
+CUST-0380	Male	1	Yes	No	17	Yes	No	No	Yes	Month-to-month	No	Mailed check	20.06	329.43	Yes	1
+CUST-0381	Female	0	No	Yes	71	Yes	No	Yes	No	One year	Yes	Bank transfer (automatic)	18	1302.38	No	0
+CUST-0382	Male	0	Yes	No	20	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Credit card (automatic)	80.41	1592.59	No	0
+CUST-0383	Female	0	No	Yes	25	Yes	No	No	Yes	One year	Yes	Bank transfer (automatic)	37.91	961.84	Yes	1
+CUST-0384	Female	0	No	No	61	Yes	Fiber optic	No	No	Two year	Yes	Electronic check	98.25	5987.55	Yes	1
+CUST-0385	Male	0	No	No	68	Yes	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	21.98	1475.28	No	0
+CUST-0386	Female	0	No	No	23	No	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	18	396.98	No	0
+CUST-0387	Male	0	No	No	64	Yes	DSL	Yes	No	Month-to-month	No	Mailed check	57.12	3648.91	No	0
+CUST-0388	Female	0	No	Yes	39	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	70.16	2670.49	No	0
+CUST-0389	Female	0	Yes	No	12	Yes	Fiber optic	Yes	No	One year	Yes	Mailed check	90.15	1100.92	No	0
+CUST-0390	Female	0	Yes	No	61	Yes	DSL	Yes	No	Month-to-month	No	Mailed check	58.49	3577.05	No	0
+CUST-0391	Male	0	Yes	No	24	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Mailed check	81.45	1927.53	No	0
+CUST-0392	Female	0	No	Yes	32	Yes	Fiber optic	No	No	Two year	Yes	Electronic check	95	3059.84	No	0
+CUST-0393	Male	0	No	No	1	Yes	Fiber optic	No	No	Two year	Yes	Electronic check	84.05	121.24	No	0
+CUST-0394	Female	0	No	No	39	No	DSL	Yes	Yes	Month-to-month	No	Credit card (automatic)	50.04	1869.01	No	0
+CUST-0395	Male	0	No	No	42	Yes	DSL	No	Yes	Month-to-month	No	Credit card (automatic)	54.07	2291.42	No	0
+CUST-0396	Male	0	Yes	No	69	Yes	DSL	Yes	No	Two year	Yes	Credit card (automatic)	54.85	3810.78	No	0
+CUST-0397	Female	0	Yes	No	62	Yes	No	Yes	No	Two year	Yes	Electronic check	29.22	1818.66	No	0
+CUST-0398	Female	1	No	No	63	Yes	DSL	No	Yes	Month-to-month	Yes	Mailed check	57.23	3589.39	No	0
+CUST-0399	Female	0	Yes	No	58	Yes	DSL	Yes	No	One year	Yes	Bank transfer (automatic)	69.71	4052.01	No	0
+CUST-0400	Female	0	Yes	No	17	No	DSL	Yes	No	Month-to-month	No	Credit card (automatic)	57.47	1021.1	No	0
+CUST-0401	Female	0	No	No	9	Yes	DSL	Yes	No	One year	Yes	Electronic check	47.48	437.51	No	0
+CUST-0402	Female	0	Yes	Yes	60	Yes	Fiber optic	No	Yes	One year	No	Mailed check	111.6	6681.1	No	0
+CUST-0403	Female	0	Yes	Yes	9	Yes	Fiber optic	Yes	No	One year	Yes	Credit card (automatic)	72.17	635.31	Yes	1
+CUST-0404	Male	0	No	No	15	Yes	DSL	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	61.89	902.72	No	0
+CUST-0405	Male	0	No	No	48	Yes	DSL	No	Yes	Month-to-month	Yes	Credit card (automatic)	70.38	3324.66	No	0
+CUST-0406	Female	0	Yes	No	43	Yes	Fiber optic	No	No	One year	Yes	Electronic check	93.01	4014.19	No	0
+CUST-0407	Female	0	No	No	70	No	DSL	No	Yes	Month-to-month	Yes	Mailed check	60.37	4253.51	No	0
+CUST-0408	Female	0	Yes	No	38	Yes	DSL	Yes	No	Two year	Yes	Electronic check	48.35	1902.55	No	0
+CUST-0409	Male	0	No	No	23	Yes	Fiber optic	Yes	No	Month-to-month	No	Electronic check	90.53	2073.66	Yes	1
+CUST-0410	Female	0	No	No	66	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	89.02	5877.34	No	0
+CUST-0411	Female	0	No	Yes	60	Yes	No	No	Yes	Two year	Yes	Bank transfer (automatic)	22.35	1394.38	No	0
+CUST-0412	Female	0	Yes	No	51	Yes	DSL	Yes	Yes	Month-to-month	No	Mailed check	53.47	2706.85	No	0
+CUST-0413	Male	0	No	Yes	53	Yes	DSL	No	Yes	One year	Yes	Electronic check	69.11	3637.1	No	0
+CUST-0414	Male	1	No	Yes	32	Yes	Fiber optic	No	Yes	One year	Yes	Mailed check	88.42	2889.5	No	0
+CUST-0415	Male	0	No	No	60	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Credit card (automatic)	93.41	5645.04	Yes	1
+CUST-0416	Male	0	Yes	No	18	Yes	DSL	No	No	Two year	No	Mailed check	51.23	852.29	No	0
+CUST-0417	Female	0	No	No	25	Yes	DSL	No	No	Month-to-month	No	Credit card (automatic)	50.78	1247.2	No	0
+CUST-0418	Female	0	Yes	Yes	23	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	54.79	1267.63	Yes	1
+CUST-0419	Male	0	Yes	No	4	Yes	Fiber optic	Yes	Yes	Two year	Yes	Electronic check	89.94	375.23	No	0
+CUST-0420	Male	0	Yes	No	67	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	69.565	4107.57	No	0
+CUST-0421	Female	0	No	No	7	Yes	Fiber optic	Yes	Yes	Two year	Yes	Mailed check	92.98	644.34	No	0
+CUST-0422	Female	1	No	No	39	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	91.94	3570.9	Yes	1
+CUST-0423	Female	1	Yes	Yes	51	Yes	DSL	No	Yes	Month-to-month	No	Credit card (automatic)	67.42	3445.2	No	0
+CUST-0424	Male	0	Yes	Yes	59	Yes	DSL	No	No	Two year	Yes	Credit card (automatic)	55.88	3334.03	No	0
+CUST-0425	Female	0	Yes	No	9	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	102.76	949.54	Yes	1
+CUST-0426	Female	0	No	Yes	44	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Credit card (automatic)	91.12	4000.43	No	0
+CUST-0427	Female	0	No	No	61	Yes	Fiber optic	No	No	One year	Yes	Mailed check	72.38	4409.92	No	0
+CUST-0428	Male	0	No	No	51	Yes	No	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	26.44	1318.49	No	0
+CUST-0429	Male	1	Yes	No	57	No	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	99.17	5677.61	No	0
+CUST-0430	Female	0	Yes	No	16	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	58.41	826.25	Yes	1
+CUST-0431	Male	0	Yes	No	20	Yes	Fiber optic	Yes	No	One year	Yes	Electronic check	87.86	1770.35	Yes	1
+CUST-0432	Male	0	Yes	Yes	37	Yes	DSL	Yes	No	Two year	Yes	Electronic check	49.64	1824.24	No	0
+CUST-0433	Male	0	No	Yes	25	Yes	Fiber optic	No	No	One year	No	Electronic check	78.29	1976.94	No	0
+CUST-0434	Male	0	Yes	No	13	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	82.32	1096.98	No	0
+CUST-0435	Female	1	No	Yes	19	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	105.21	1998.49	No	0
+CUST-0436	Female	1	Yes	No	68	Yes	No	No	Yes	One year	Yes	Credit card (automatic)	24.36	1653.87	No	0
+CUST-0437	Female	1	No	Yes	15	Yes	No	No	No	Month-to-month	No	Electronic check	31.19	531.16	Yes	1
+CUST-0438	Male	0	No	No	22	Yes	DSL	Yes	Yes	One year	No	Mailed check	58.2	1269.91	No	0
+CUST-0439	Female	0	No	Yes	64	Yes	DSL	No	No	Two year	Yes	Mailed check	60.31	3825.73	No	0
+CUST-0440	Male	0	No	No	8	Yes	No	No	No	Two year	Yes	Electronic check	24.7	210	No	0
+CUST-0441	Male	0	No	No	63	Yes	DSL	No	No	Month-to-month	No	Mailed check	68.86	4303.91	No	0
+CUST-0442	Female	1	Yes	No	21	Yes	DSL	Yes	No	One year	No	Mailed check	55.31	1160.34	No	0
+CUST-0443	Male	0	No	No	12	Yes	No	Yes	Yes	One year	Yes	Mailed check	27.23	402.39	No	0
+CUST-0444	Female	0	Yes	Yes	13	Yes	Fiber optic	Yes	No	One year	Yes	Electronic check	88.62	1166.73	No	0
+CUST-0445	Female	1	Yes	No	52	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	59.84	3124.35	No	0
+CUST-0446	Male	0	No	No	39	Yes	Fiber optic	Yes	No	One year	Yes	Mailed check	95.32	3633.29	No	0
+CUST-0447	Female	1	Yes	No	48	Yes	Fiber optic	Yes	Yes	One year	Yes	Bank transfer (automatic)	98.41	4625.08	No	0
+CUST-0448	Male	0	Yes	No	27	No	Fiber optic	No	Yes	Month-to-month	No	Mailed check	59.75	1616.53	Yes	1
+CUST-0449	Female	0	Yes	No	1	No	DSL	Yes	Yes	Month-to-month	No	Electronic check	43.83	18	No	0
+CUST-0450	Female	0	No	Yes	15	Yes	Fiber optic	Yes	No	Two year	Yes	Credit card (automatic)	86.87	1322.33	No	0
+CUST-0451	Male	0	Yes	No	12	Yes	No	Yes	Yes	One year	No	Electronic check	34.17	487.1	No	0
+CUST-0452	Female	0	Yes	Yes	22	No	No	No	Yes	Month-to-month	No	Bank transfer (automatic)	28.3	613.39	Yes	1
+CUST-0453	Male	0	Yes	Yes	45	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	99.6	4451.27	No	0
+CUST-0454	Female	0	No	No	60	Yes	DSL	Yes	No	Month-to-month	No	Electronic check	56.01	3421.3	Yes	1
+CUST-0455	Female	1	Yes	No	38	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Mailed check	97.5	3745.26	No	0
+CUST-0456	Female	0	No	Yes	71	Yes	No	No	No	Month-to-month	Yes	Mailed check	18	1245.43	No	0
+CUST-0457	Female	1	No	Yes	19	Yes	Fiber optic	No	No	One year	Yes	Credit card (automatic)	87.82	1720.26	No	0
+CUST-0458	Female	0	No	No	57	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	55.68	3126.59	No	0
+CUST-0459	Female	0	No	No	56	Yes	DSL	No	Yes	One year	No	Mailed check	55.7	3075.22	No	0
+CUST-0460	Female	0	No	No	33	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	63.5	2076.94	Yes	1
+CUST-0461	Female	0	Yes	No	34	Yes	Fiber optic	No	Yes	Month-to-month	No	Bank transfer (automatic)	90.76	3101.62	No	0
+CUST-0462	Female	0	No	No	2	Yes	No	No	No	Month-to-month	Yes	Electronic check	18	38.19	Yes	1
+CUST-0463	Female	0	No	Yes	64	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Credit card (automatic)	84.66	5450.67	No	0
+CUST-0464	Male	1	Yes	Yes	60	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	54.91	3286.96	No	0
+CUST-0465	Female	0	No	No	25	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	82.91	2044.59	Yes	1
+CUST-0466	Female	0	No	No	36	No	DSL	No	No	One year	Yes	Credit card (automatic)	50.48	1826.61	No	0
+CUST-0467	Male	0	Yes	Yes	31	Yes	DSL	No	No	One year	No	Credit card (automatic)	61.54	1880.38	No	0
+CUST-0468	Female	0	Yes	No	62	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	44.44	2799.56	Yes	1
+CUST-0469	Female	0	Yes	No	15	Yes	Fiber optic	No	Yes	Month-to-month	No	Electronic check	76.55	1199.26	Yes	1
+CUST-0470	Male	1	Yes	No	32	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	80.41	2571.52	No	0
+CUST-0471	Male	1	Yes	No	46	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	62.18	2840.04	No	0
+CUST-0472	Female	0	Yes	Yes	52	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	99.6	5232.79	Yes	1
+CUST-0473	Female	1	No	No	29	Yes	Fiber optic	No	Yes	Two year	Yes	Mailed check	90.66	2512.28	No	0
+CUST-0474	Male	0	No	No	7	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Credit card (automatic)	90.67	698.27	Yes	1
+CUST-0475	Male	0	No	Yes	46	Yes	No	No	No	Month-to-month	No	Electronic check	18	768.67	Yes	1
+CUST-0476	Female	0	No	No	70	Yes	DSL	No	Yes	One year	Yes	Bank transfer (automatic)	55.88	3835.17	No	0
+CUST-0477	Female	0	Yes	No	17	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	53.2	887.92	No	0
+CUST-0478	Female	0	No	No	69	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	79.66	5528.44	No	0
+CUST-0479	Female	0	No	No	13	Yes	Fiber optic	No	No	One year	No	Electronic check	102.72	1388.85	No	0
+CUST-0480	Male	0	Yes	Yes	16	Yes	DSL	No	No	Two year	Yes	Mailed check	55.43	962.6	No	0
+CUST-0481	Female	0	Yes	Yes	63	Yes	DSL	Yes	No	One year	Yes	Mailed check	84.62	5323.49	No	0
+CUST-0482	Female	0	Yes	Yes	58	Yes	Fiber optic	No	Yes	One year	No	Electronic check	79.83	4618.26	No	0
+CUST-0483	Female	0	Yes	No	12	Yes	DSL	Yes	No	Month-to-month	Yes	Credit card (automatic)	73.72	879.23	Yes	1
+CUST-0484	Male	0	Yes	No	39	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	92.57	3554.47	No	0
+CUST-0485	Male	1	No	No	9	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	51.86	485.09	Yes	1
+CUST-0486	Male	1	No	Yes	18	Yes	DSL	Yes	Yes	One year	Yes	Electronic check	60.52	1092.45	Yes	1
+CUST-0487	Male	0	No	No	22	No	No	Yes	No	One year	No	Bank transfer (automatic)	31.59	701.81	No	0
+CUST-0488	Male	0	Yes	Yes	60	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	54.46	3168.56	No	0
+CUST-0489	Male	0	Yes	No	35	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	55.16	2066.35	No	0
+CUST-0490	Female	0	No	No	62	Yes	DSL	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	55.02	3385.23	No	0
+CUST-0491	Male	1	No	No	15	Yes	Fiber optic	Yes	No	Month-to-month	No	Credit card (automatic)	80.56	1217.75	Yes	1
+CUST-0492	Female	0	Yes	No	40	Yes	Fiber optic	No	No	One year	Yes	Electronic check	80.18	2060.275	Yes	1
+CUST-0493	Male	0	No	No	27	Yes	No	No	Yes	Month-to-month	No	Electronic check	21.87	628.9	No	0
+CUST-0494	Male	0	Yes	No	41	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	94.68	3905.9	No	0
+CUST-0495	Male	0	No	No	50	Yes	Fiber optic	No	No	One year	No	Mailed check	63.46	3152.27	No	0
+CUST-0496	Female	0	No	No	32	Yes	No	No	Yes	One year	No	Electronic check	34.19	1128.3	No	0
+CUST-0497	Male	0	No	No	65	No	Fiber optic	No	Yes	Two year	Yes	Credit card (automatic)	88.95	5761.99	No	0
+CUST-0498	Male	0	Yes	No	20	Yes	DSL	No	Yes	One year	Yes	Electronic check	74.55	1523.47	No	0
+CUST-0499	Female	0	No	No	8	Yes	Fiber optic	Yes	Yes	One year	Yes	Credit card (automatic)	86.63	632.79	No	0
+CUST-0500	Male	0	Yes	No	70	Yes	DSL	Yes	No	Two year	No	Electronic check	66.47	4706.39	No	0
+CUST-0501	Female	0	Yes	Yes	2	Yes	Fiber optic	No	No	One year	Yes	Bank transfer (automatic)	114.09	307.88	Yes	1
+CUST-0502	Female	0	Yes	Yes	59	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	89.36	5312.28	No	0
+CUST-0503	Male	0	No	No	22	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	104.06	2337.68	Yes	1
+CUST-0504	Male	0	Yes	No	23	Yes	Fiber optic	No	Yes	One year	Yes	Credit card (automatic)	89.71	2020.75	No	0
+CUST-0505	Female	0	Yes	No	25	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	51.47	1357.84	No	0
+CUST-0506	Female	0	No	No	71	Yes	Fiber optic	No	Yes	One year	No	Credit card (automatic)	86.9	6125.78	No	0
+CUST-0507	Male	1	Yes	No	24	Yes	Fiber optic	Yes	Yes	Two year	Yes	Electronic check	74.45	1815.06	No	0
+CUST-0508	Male	0	No	Yes	17	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	82.42	1416.17	No	0
+CUST-0509	Female	1	No	No	38	Yes	No	No	Yes	Month-to-month	Yes	Electronic check	33.29	1258.82	Yes	1
+CUST-0510	Female	0	Yes	No	21	Yes	Fiber optic	No	No	One year	No	Mailed check	80.89	1680.26	No	0
+CUST-0511	Male	0	Yes	No	61	No	No	Yes	No	Month-to-month	Yes	Electronic check	21.65	1287.3	No	0
+CUST-0512	Male	0	No	No	53	Yes	Fiber optic	No	No	Two year	Yes	Mailed check	73.81	4000.06	No	0
+CUST-0513	Male	0	Yes	No	68	No	Fiber optic	No	No	Month-to-month	Yes	Electronic check	88.02	5952.49	No	0
+CUST-0514	Female	0	Yes	No	51	Yes	DSL	Yes	No	Month-to-month	No	Electronic check	60.37	3101.83	Yes	1
+CUST-0515	Female	0	Yes	No	1	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Credit card (automatic)	91.52	88.38	No	0
+CUST-0516	Female	0	No	Yes	40	No	Fiber optic	No	Yes	One year	Yes	Electronic check	96.89	3873.36	No	0
+CUST-0517	Female	0	Yes	No	4	Yes	Fiber optic	No	Yes	One year	Yes	Credit card (automatic)	83.4	310.16	No	0
+CUST-0518	Female	0	No	No	50	No	Fiber optic	No	No	One year	Yes	Mailed check	78.62	3973.39	No	0
+CUST-0519	Female	0	No	Yes	31	Yes	Fiber optic	Yes	Yes	One year	Yes	Credit card (automatic)	90.33	2796.61	No	0
+CUST-0520	Male	0	Yes	No	53	Yes	Fiber optic	Yes	No	Two year	No	Electronic check	84.82	4497.2	No	0
+CUST-0521	Male	0	Yes	No	45	Yes	DSL	No	No	One year	Yes	Electronic check	46.96	2060.275	No	0
+CUST-0522	Male	0	Yes	No	24	Yes	Fiber optic	No	No	Two year	No	Electronic check	93.88	2235.86	Yes	1
+CUST-0523	Female	0	Yes	Yes	52	Yes	DSL	No	Yes	Two year	No	Electronic check	46.73	2388.95	No	0
+CUST-0524	Female	0	No	No	27	Yes	No	No	No	Two year	Yes	Electronic check	18	556.03	No	0
+CUST-0525	Male	0	No	Yes	40	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	78.85	3142.89	No	0
+CUST-0526	Male	1	Yes	No	8	Yes	Fiber optic	Yes	No	Month-to-month	No	Mailed check	83.61	650.47	No	0
+CUST-0527	Female	1	No	No	65	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	90.45	5869.6	No	0
+CUST-0528	Male	0	Yes	Yes	39	Yes	No	Yes	No	Month-to-month	No	Mailed check	18	767.41	No	0
+CUST-0529	Female	0	No	No	38	Yes	No	Yes	No	One year	No	Bank transfer (automatic)	18	664.6	No	0
+CUST-0530	Female	0	Yes	No	2	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	77.14	196.11	Yes	1
+CUST-0531	Male	1	No	No	36	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	56.24	1952.22	No	0
+CUST-0532	Male	1	No	No	47	Yes	No	Yes	No	Two year	No	Bank transfer (automatic)	28.48	1385.94	No	0
+CUST-0533	Male	0	Yes	Yes	5	Yes	DSL	No	No	Two year	Yes	Bank transfer (automatic)	53.58	271.77	No	0
+CUST-0534	Female	1	Yes	Yes	33	Yes	No	No	No	Month-to-month	No	Credit card (automatic)	28.43	883.67	Yes	1
+CUST-0535	Female	0	Yes	No	22	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	69.565	1051.01	No	0
+CUST-0536	Female	0	No	No	8	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	87.28	760.48	Yes	1
+CUST-0537	Female	0	No	No	12	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	83.18	1069.24	Yes	1
+CUST-0538	Female	0	No	No	19	Yes	No	Yes	Yes	One year	Yes	Mailed check	27.74	487.88	No	0
+CUST-0539	Female	0	Yes	Yes	49	Yes	No	Yes	Yes	One year	Yes	Credit card (automatic)	32.85	1581.95	No	0
+CUST-0540	Female	0	Yes	No	66	Yes	DSL	Yes	Yes	Month-to-month	No	Bank transfer (automatic)	70.08	4547.75	No	0
+CUST-0541	Male	0	Yes	No	36	Yes	No	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	38.25	1394.26	No	0
+CUST-0542	Male	1	Yes	Yes	18	Yes	DSL	No	Yes	Month-to-month	Yes	Mailed check	61.8	1121.06	No	0
+CUST-0543	Female	0	Yes	No	6	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	40.9	229.1	Yes	1
+CUST-0544	Female	1	Yes	Yes	45	Yes	DSL	No	No	Two year	Yes	Electronic check	60.08	2664.24	No	0
+CUST-0545	Male	0	Yes	Yes	52	Yes	DSL	Yes	No	Two year	Yes	Credit card (automatic)	64.94	3393.98	No	0
+CUST-0546	Male	0	Yes	No	59	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	61.62	3586.27	No	0
+CUST-0547	Female	0	No	No	52	Yes	DSL	No	No	Month-to-month	Yes	Mailed check	69.51	3578.34	No	0
+CUST-0548	Female	1	No	No	16	Yes	Fiber optic	No	No	One year	Yes	Electronic check	98.13	1580.42	Yes	1
+CUST-0549	Female	1	No	Yes	58	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	80.58	4698.9	No	0
+CUST-0550	Male	0	Yes	No	64	Yes	DSL	Yes	Yes	Two year	Yes	Credit card (automatic)	60.69	3967.95	No	0
+CUST-0551	Male	0	No	No	57	Yes	Fiber optic	No	Yes	One year	No	Bank transfer (automatic)	101.15	5771.16	No	0
+CUST-0552	Male	1	Yes	No	55	Yes	Fiber optic	Yes	No	One year	Yes	Mailed check	78.78	4378.14	No	0
+CUST-0553	Male	0	Yes	No	58	Yes	DSL	No	Yes	Month-to-month	No	Mailed check	66.95	3889.17	No	0
+CUST-0554	Male	0	Yes	No	13	Yes	No	No	No	Month-to-month	Yes	Mailed check	18	248.1	Yes	1
+CUST-0555	Male	0	Yes	No	12	Yes	DSL	Yes	Yes	One year	No	Credit card (automatic)	48.5	587.49	No	0
+CUST-0556	Male	0	No	No	33	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	75.29	2488.52	No	0
+CUST-0557	Female	0	Yes	Yes	19	No	Fiber optic	No	No	Two year	Yes	Electronic check	69.565	1659.81	Yes	1
+CUST-0558	Female	0	No	Yes	42	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	54.65	2302.95	No	0
+CUST-0559	Male	0	No	No	51	Yes	DSL	Yes	Yes	One year	Yes	Bank transfer (automatic)	54.46	2732.71	No	0
+CUST-0560	Male	0	Yes	No	27	Yes	Fiber optic	No	Yes	Two year	Yes	Electronic check	90.34	2434.53	No	0
+CUST-0561	Male	0	No	No	26	Yes	No	No	No	Month-to-month	No	Bank transfer (automatic)	26.85	690.33	Yes	1
+CUST-0562	Male	0	No	No	38	Yes	No	Yes	No	One year	Yes	Bank transfer (automatic)	18.68	733.3	No	0
+CUST-0563	Female	0	Yes	No	45	Yes	DSL	No	Yes	One year	Yes	Mailed check	63.96	2928.13	No	0
+CUST-0564	Female	1	No	Yes	10	Yes	Fiber optic	No	No	One year	No	Bank transfer (automatic)	90.36	915.44	Yes	1
+CUST-0565	Male	0	Yes	No	11	Yes	Fiber optic	No	Yes	Month-to-month	No	Mailed check	91.75	1055.99	No	0
+CUST-0566	Female	0	Yes	No	44	Yes	No	No	No	Month-to-month	Yes	Electronic check	28.71	1232.97	No	0
+CUST-0567	Male	0	No	Yes	62	Yes	No	No	Yes	Month-to-month	Yes	Electronic check	22.83	1400.14	No	0
+CUST-0568	Female	0	Yes	No	44	Yes	No	Yes	Yes	Month-to-month	No	Bank transfer (automatic)	26.66	1256.26	No	0
+CUST-0569	Male	0	No	Yes	42	No	No	No	Yes	Month-to-month	Yes	Electronic check	18.83	827.95	No	0
+CUST-0570	Female	0	No	Yes	58	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	79.46	4574.17	No	0
+CUST-0571	Male	0	No	No	26	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	62.29	1671.55	Yes	1
+CUST-0572	Male	0	No	No	35	Yes	DSL	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	76.38	2692.53	No	0
+CUST-0573	Male	1	Yes	No	55	Yes	DSL	Yes	No	Month-to-month	No	Credit card (automatic)	54.47	3074.64	No	0
+CUST-0574	Female	0	Yes	No	42	No	DSL	No	No	One year	Yes	Electronic check	46.25	1986.25	No	0
+CUST-0575	Female	0	Yes	Yes	23	Yes	Fiber optic	Yes	Yes	One year	Yes	Electronic check	89.64	2044.19	No	0
+CUST-0576	Male	0	No	No	29	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	73.04	2187.67	Yes	1
+CUST-0577	Female	0	No	No	56	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	82.56	4583.05	No	0
+CUST-0578	Female	0	No	No	39	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	88.51	3402.1	No	0
+CUST-0579	Male	0	No	No	14	No	Fiber optic	No	No	Month-to-month	No	Mailed check	91.6	1308.19	Yes	1
+CUST-0580	Male	1	No	No	68	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	86.42	5955.38	No	0
+CUST-0581	Female	0	Yes	No	9	Yes	Fiber optic	Yes	Yes	One year	No	Electronic check	97.45	874.65	No	0
+CUST-0582	Male	0	No	No	28	Yes	Fiber optic	No	Yes	Two year	No	Credit card (automatic)	97.61	2737.77	Yes	1
+CUST-0583	Female	0	Yes	No	36	Yes	Fiber optic	Yes	No	Month-to-month	No	Credit card (automatic)	80.09	2947.26	No	0
+CUST-0584	Male	0	Yes	Yes	43	Yes	No	No	No	Month-to-month	Yes	Electronic check	34.77	1540.2	Yes	1
+CUST-0585	Male	0	No	No	32	No	Fiber optic	No	Yes	Month-to-month	Yes	Mailed check	88.34	2807.47	No	0
+CUST-0586	Male	0	Yes	No	27	Yes	No	No	Yes	Month-to-month	No	Electronic check	23.05	668.3	No	0
+CUST-0587	Female	0	Yes	No	24	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	64.14	1514.04	No	0
+CUST-0588	Male	0	No	No	24	Yes	Fiber optic	No	Yes	Two year	Yes	Electronic check	95.48	2286.64	Yes	1
+CUST-0589	Female	0	No	Yes	72	Yes	No	No	No	One year	Yes	Electronic check	20.68	1460.23	No	0
+CUST-0590	Male	1	Yes	No	57	Yes	Fiber optic	No	Yes	Two year	Yes	Electronic check	93.36	5268.01	No	0
+CUST-0591	Male	0	Yes	No	10	Yes	Fiber optic	Yes	Yes	Two year	No	Bank transfer (automatic)	83.3	843.23	No	0
+CUST-0592	Male	1	No	No	9	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	43.94	410.4	Yes	1
+CUST-0593	Male	0	No	No	42	Yes	Fiber optic	No	Yes	Two year	Yes	Bank transfer (automatic)	99.72	4188.03	No	0
+CUST-0594	Female	0	No	Yes	12	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	81.51	1027.31	Yes	1
+CUST-0595	Male	0	Yes	Yes	36	Yes	Fiber optic	No	No	One year	Yes	Electronic check	75.55	2728.55	No	0
+CUST-0596	Female	0	Yes	No	31	Yes	Fiber optic	No	No	One year	Yes	Credit card (automatic)	87.74	2745.06	No	0
+CUST-0597	Male	1	No	Yes	23	Yes	DSL	Yes	No	One year	Yes	Electronic check	75.62	1716.82	No	0
+CUST-0598	Male	1	No	No	40	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Mailed check	87.45	3493.93	No	0
+CUST-0599	Female	0	No	Yes	43	Yes	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	64.33	2810.52	Yes	1
+CUST-0600	Male	0	Yes	Yes	25	Yes	Fiber optic	No	No	One year	Yes	Mailed check	87.58	2223.4	No	0
+CUST-0601	Female	0	No	No	1	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	88.27	74.59	No	0
+CUST-0602	Female	0	No	Yes	23	Yes	No	No	Yes	One year	Yes	Electronic check	18.47	412.7	No	0
+CUST-0603	Male	0	Yes	No	9	Yes	DSL	Yes	No	One year	No	Bank transfer (automatic)	51.41	427.26	No	0
+CUST-0604	Female	0	No	No	59	No	DSL	No	No	Month-to-month	Yes	Mailed check	59.43	3513.7	No	0
+CUST-0605	Female	1	No	No	1	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	93.26	85.35	No	0
+CUST-0606	Female	0	Yes	No	29	Yes	DSL	Yes	No	Two year	Yes	Bank transfer (automatic)	64.97	1875.65	No	0
+CUST-0607	Female	0	No	No	9	No	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	76.93	658.34	Yes	1
+CUST-0608	Male	0	No	No	25	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Mailed check	85.21	2129.96	Yes	1
+CUST-0609	Female	0	Yes	No	48	No	DSL	No	No	Month-to-month	Yes	Electronic check	62.26	3042.92	No	0
+CUST-0610	Female	0	No	No	71	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	91.23	6532.9	No	0
+CUST-0611	Female	0	Yes	No	14	Yes	DSL	No	Yes	One year	Yes	Bank transfer (automatic)	57.27	727.02	No	0
+CUST-0612	Female	0	No	Yes	21	Yes	DSL	Yes	No	Two year	Yes	Bank transfer (automatic)	45.98	932.81	No	0
+CUST-0613	Male	0	Yes	No	54	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	79.79	4302.05	Yes	1
+CUST-0614	Female	0	No	No	8	Yes	DSL	No	Yes	Month-to-month	No	Electronic check	51.54	425.01	Yes	1
+CUST-0615	Male	0	No	Yes	26	Yes	No	Yes	No	Two year	No	Mailed check	27.56	706.65	No	0
+CUST-0616	Female	1	No	Yes	2	Yes	DSL	Yes	No	One year	Yes	Mailed check	71.62	172.03	No	0
+CUST-0617	Female	0	No	No	23	No	No	No	Yes	Two year	Yes	Bank transfer (automatic)	36.13	837.11	No	0
+CUST-0618	Male	0	No	No	54	Yes	No	Yes	No	Two year	No	Bank transfer (automatic)	18	1049.78	No	0
+CUST-0619	Female	0	No	No	28	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	83.7	2316.28	Yes	1
+CUST-0620	Female	0	No	Yes	65	Yes	DSL	No	Yes	One year	Yes	Electronic check	59.04	3767.73	No	0
+CUST-0621	Male	0	No	Yes	1	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	87.92	114.87	Yes	1
+CUST-0622	Female	0	No	No	54	Yes	DSL	Yes	No	One year	Yes	Credit card (automatic)	66.26	3573.78	No	0
+CUST-0623	Male	0	No	No	24	Yes	Fiber optic	No	No	One year	No	Credit card (automatic)	81.26	1972.8	No	0
+CUST-0624	Female	0	Yes	Yes	66	Yes	No	Yes	No	Two year	Yes	Mailed check	24.67	1698.22	No	0
+CUST-0625	Male	0	Yes	No	8	Yes	Fiber optic	No	No	Two year	Yes	Credit card (automatic)	79.28	569.39	No	0
+CUST-0626	Female	0	No	No	32	No	DSL	No	No	Month-to-month	Yes	Mailed check	47.62	1527.46	Yes	1
+CUST-0627	Male	0	Yes	No	6	No	Fiber optic	Yes	No	Month-to-month	Yes	Credit card (automatic)	100.62	648.06	Yes	1
+CUST-0628	Female	0	Yes	No	21	Yes	No	No	Yes	Two year	No	Credit card (automatic)	18	2060.275	No	0
+CUST-0629	Female	0	Yes	Yes	31	Yes	Fiber optic	Yes	Yes	One year	No	Credit card (automatic)	92.5	2912.22	No	0
+CUST-0630	Male	0	Yes	Yes	12	Yes	No	No	No	Two year	Yes	Electronic check	19.17	244.1	Yes	1
+CUST-0631	Male	1	No	No	23	Yes	Fiber optic	No	No	One year	Yes	Bank transfer (automatic)	72.69	1678.81	No	0
+CUST-0632	Male	0	No	No	38	Yes	Fiber optic	No	No	One year	Yes	Electronic check	81.8	3129.99	No	0
+CUST-0633	Male	0	Yes	Yes	22	Yes	No	No	No	Month-to-month	Yes	Mailed check	23.35	530.26	Yes	1
+CUST-0634	Male	0	Yes	Yes	23	Yes	Fiber optic	Yes	Yes	One year	Yes	Electronic check	74.06	1741.23	No	0
+CUST-0635	Male	0	Yes	No	28	No	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	96.79	2696.16	No	0
+CUST-0636	Female	0	Yes	Yes	37	Yes	Fiber optic	No	No	Month-to-month	No	Bank transfer (automatic)	83.33	3062.01	No	0
+CUST-0637	Female	1	No	Yes	20	Yes	No	Yes	No	One year	Yes	Bank transfer (automatic)	28.82	561.18	No	0
+CUST-0638	Male	1	No	No	65	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	93.72	6072.49	No	0
+CUST-0639	Male	0	Yes	No	22	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	89.49	1972.79	Yes	1
+CUST-0640	Male	0	No	No	28	Yes	DSL	No	No	Two year	Yes	Mailed check	53.5	1516.49	No	0
+CUST-0641	Female	0	No	Yes	44	Yes	Fiber optic	No	No	Month-to-month	No	Credit card (automatic)	79.39	3554.84	No	0
+CUST-0642	Male	0	Yes	No	26	Yes	Fiber optic	No	Yes	One year	No	Credit card (automatic)	74.4	1996.51	No	0
+CUST-0643	Female	1	No	No	20	Yes	No	Yes	No	Month-to-month	Yes	Electronic check	21.67	444.08	Yes	1
+CUST-0644	Female	0	No	Yes	22	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Mailed check	86.88	1908.2	Yes	1
+CUST-0645	Male	0	No	No	59	Yes	DSL	No	Yes	Month-to-month	No	Bank transfer (automatic)	58.53	3432.94	No	0
+CUST-0646	Female	0	No	No	51	Yes	DSL	Yes	Yes	Two year	No	Credit card (automatic)	49.6	2481.84	No	0
+CUST-0647	Female	0	Yes	No	72	Yes	DSL	No	No	Month-to-month	No	Mailed check	56.71	4061.25	No	0
+CUST-0648	Female	1	No	No	11	Yes	No	No	Yes	Month-to-month	No	Electronic check	27.25	297.46	Yes	1
+CUST-0649	Female	1	Yes	Yes	58	Yes	Fiber optic	No	Yes	Two year	Yes	Bank transfer (automatic)	96.83	5668.89	No	0
+CUST-0650	Male	0	No	No	2	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	98.68	285.54	Yes	1
+CUST-0651	Female	0	No	No	27	Yes	Fiber optic	No	Yes	Month-to-month	No	Bank transfer (automatic)	87.37	2359.27	No	0
+CUST-0652	Female	1	No	No	67	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	83.85	5624.25	No	0
+CUST-0653	Male	0	No	No	62	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Mailed check	100.85	6274.79	No	0
+CUST-0654	Male	0	Yes	Yes	20	Yes	Fiber optic	No	Yes	One year	Yes	Electronic check	85.3	1748.79	Yes	1
+CUST-0655	Female	0	No	No	54	Yes	Fiber optic	Yes	No	One year	Yes	Electronic check	96.25	5170.45	No	0
+CUST-0656	Male	0	Yes	No	21	Yes	Fiber optic	No	Yes	One year	Yes	Mailed check	76.25	1625.26	No	0
+CUST-0657	Male	0	Yes	No	31	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	57.47	1743.45	No	0
+CUST-0658	Male	0	Yes	Yes	68	Yes	DSL	Yes	No	Month-to-month	No	Electronic check	51.15	3480.51	No	0
+CUST-0659	Male	0	Yes	No	2	Yes	DSL	Yes	No	One year	Yes	Mailed check	59.5	88.83	No	0
+CUST-0660	Male	0	Yes	No	18	Yes	DSL	No	No	One year	No	Credit card (automatic)	48.92	844.74	No	0
+CUST-0661	Female	0	No	No	1	Yes	DSL	Yes	No	One year	Yes	Electronic check	56.22	67.46	No	0
+CUST-0662	Male	0	No	No	40	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	89.21	3636.75	No	0
+CUST-0663	Male	0	Yes	Yes	1	Yes	No	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	18	18	No	0
+CUST-0664	Male	0	No	No	54	Yes	Fiber optic	Yes	No	Two year	Yes	Credit card (automatic)	99.32	5316.54	No	0
+CUST-0665	Male	0	No	No	71	Yes	Fiber optic	No	Yes	Two year	No	Credit card (automatic)	87.77	6233.02	No	0
+CUST-0666	Male	0	Yes	Yes	11	Yes	No	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	27.67	256.37	Yes	1
+CUST-0667	Male	0	No	No	9	Yes	DSL	No	No	Two year	Yes	Credit card (automatic)	54.64	563.91	No	0
+CUST-0668	Male	0	No	Yes	38	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	70.62	2584.17	No	0
+CUST-0669	Female	0	Yes	No	47	Yes	DSL	Yes	No	One year	No	Mailed check	52.05	2529.41	No	0
+CUST-0670	Female	0	Yes	No	12	Yes	No	No	Yes	One year	Yes	Bank transfer (automatic)	26.66	321.05	No	0
+CUST-0671	Female	0	Yes	No	72	Yes	Fiber optic	Yes	No	Two year	Yes	Bank transfer (automatic)	85.03	6124.74	No	0
+CUST-0672	Male	0	Yes	No	58	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	84.62	4926.25	No	0
+CUST-0673	Female	1	Yes	No	66	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	56.61	3731.5	No	0
+CUST-0674	Male	0	No	Yes	19	Yes	Fiber optic	No	No	Two year	Yes	Bank transfer (automatic)	94.5	1768.81	No	0
+CUST-0675	Male	0	Yes	No	39	Yes	Fiber optic	Yes	No	Two year	No	Bank transfer (automatic)	82.57	3283.88	No	0
+CUST-0676	Female	0	No	No	3	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	87.62	179.86	Yes	1
+CUST-0677	Male	0	No	No	6	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	79.52	454.39	Yes	1
+CUST-0678	Female	1	No	Yes	66	Yes	Fiber optic	No	No	Two year	Yes	Mailed check	86.52	5746.99	No	0
+CUST-0679	Female	0	Yes	No	7	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	86.82	626.27	Yes	1
+CUST-0680	Female	0	Yes	No	24	Yes	Fiber optic	Yes	No	One year	Yes	Electronic check	87.69	2110.58	No	0
+CUST-0681	Male	0	Yes	No	47	Yes	Fiber optic	No	Yes	One year	Yes	Bank transfer (automatic)	77.94	3709.53	No	0
+CUST-0682	Male	0	Yes	No	15	Yes	DSL	Yes	Yes	Month-to-month	Yes	Mailed check	60.1	865	No	0
+CUST-0683	Female	0	No	No	18	No	Fiber optic	Yes	No	One year	Yes	Bank transfer (automatic)	94.08	1666.18	Yes	1
+CUST-0684	Female	0	Yes	Yes	60	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Credit card (automatic)	84.65	5016.13	No	0
+CUST-0685	Male	1	No	No	12	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	80.12	929.03	No	0
+CUST-0686	Male	0	Yes	No	60	Yes	DSL	Yes	Yes	Month-to-month	No	Electronic check	61.96	3782.71	No	0
+CUST-0687	Female	0	No	Yes	17	Yes	DSL	No	Yes	Month-to-month	No	Electronic check	55.72	951.68	Yes	1
+CUST-0688	Female	0	Yes	Yes	5	Yes	DSL	Yes	No	One year	Yes	Bank transfer (automatic)	64.56	282.1	No	0
+CUST-0689	Male	0	No	No	49	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	97.03	4705.95	No	0
+CUST-0690	Male	0	Yes	Yes	55	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	69.565	4407.24	No	0
+CUST-0691	Female	0	Yes	No	12	No	Fiber optic	No	No	Month-to-month	Yes	Mailed check	92.65	1139.53	Yes	1
+CUST-0692	Female	1	Yes	No	46	Yes	Fiber optic	No	Yes	Month-to-month	No	Electronic check	98.24	4541.48	Yes	1
+CUST-0693	Female	0	No	No	65	Yes	Fiber optic	Yes	No	One year	Yes	Credit card (automatic)	83.28	5379.24	No	0
+CUST-0694	Female	0	Yes	Yes	11	Yes	Fiber optic	No	Yes	Two year	Yes	Electronic check	81.95	912.18	No	0
+CUST-0695	Male	0	Yes	No	41	Yes	No	No	No	One year	Yes	Credit card (automatic)	35.11	1447.07	Yes	1
+CUST-0696	Female	0	Yes	No	4	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	86.88	372.78	Yes	1
+CUST-0697	Male	0	No	No	45	Yes	Fiber optic	No	No	Month-to-month	No	Bank transfer (automatic)	93.74	4204.43	No	0
+CUST-0698	Female	0	No	No	5	Yes	No	Yes	No	Month-to-month	Yes	Credit card (automatic)	36.31	153.63	Yes	1
+CUST-0699	Female	1	Yes	No	14	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	68.25	968.59	Yes	1
+CUST-0700	Female	0	Yes	Yes	63	Yes	DSL	No	No	Month-to-month	No	Electronic check	50.61	3134.22	No	0
+CUST-0701	Female	0	Yes	No	20	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	87.52	1795.14	Yes	1
+CUST-0702	Female	0	Yes	No	14	Yes	DSL	No	No	One year	Yes	Credit card (automatic)	60.28	855.22	No	0
+CUST-0703	Male	0	No	No	8	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	66.04	532.29	No	0
+CUST-0704	Male	0	Yes	Yes	54	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	91.3	4893.67	No	0
+CUST-0705	Female	1	Yes	No	70	Yes	No	Yes	Yes	Two year	Yes	Electronic check	33.28	2272.43	No	0
+CUST-0706	Male	0	Yes	No	68	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	49.04	3294.67	No	0
+CUST-0707	Female	0	Yes	No	9	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	74.72	608.76	No	0
+CUST-0708	Male	0	No	No	33	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	63.35	2071.86	Yes	1
+CUST-0709	Male	0	No	No	59	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	42.09	2530.38	No	0
+CUST-0710	Male	0	No	No	64	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	79.81	5113.42	No	0
+CUST-0711	Female	0	Yes	No	33	Yes	Fiber optic	No	No	One year	Yes	Electronic check	83.85	2719.58	No	0
+CUST-0712	Female	0	Yes	Yes	51	Yes	No	Yes	Yes	Month-to-month	Yes	Electronic check	26.48	1379.51	No	0
+CUST-0713	Male	1	No	No	56	Yes	Fiber optic	No	Yes	One year	Yes	Bank transfer (automatic)	76.21	4245.22	No	0
+CUST-0714	Male	1	No	No	15	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Electronic check	93.93	1415.27	Yes	1
+CUST-0715	Male	0	No	No	11	Yes	DSL	No	No	One year	No	Credit card (automatic)	38.97	494.53	No	0
+CUST-0716	Male	0	Yes	No	24	Yes	Fiber optic	No	Yes	Two year	Yes	Electronic check	102.66	2441.52	Yes	1
+CUST-0717	Male	0	No	No	34	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	51.84	1779.86	No	0
+CUST-0718	Male	1	Yes	Yes	47	Yes	No	No	Yes	Month-to-month	No	Electronic check	24.1	1132.12	Yes	1
+CUST-0719	Female	0	Yes	No	34	Yes	Fiber optic	No	No	Month-to-month	No	Bank transfer (automatic)	86.75	2972.04	Yes	1
+CUST-0720	Female	0	Yes	No	31	Yes	DSL	Yes	Yes	Two year	No	Credit card (automatic)	61.3	1890.5	No	0
+CUST-0721	Female	0	No	No	25	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	57.35	1482.5	No	0
+CUST-0722	Male	0	Yes	Yes	56	Yes	Fiber optic	No	No	Month-to-month	No	Bank transfer (automatic)	87.21	4896.09	Yes	1
+CUST-0723	Male	0	No	No	33	Yes	DSL	No	No	Month-to-month	No	Bank transfer (automatic)	55.39	1856.09	Yes	1
+CUST-0724	Male	0	Yes	Yes	17	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	86.41	1387.42	Yes	1
+CUST-0725	Male	0	Yes	No	63	No	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	64.76	4028.18	No	0
+CUST-0726	Female	0	Yes	Yes	54	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	67.35	3723.86	No	0
+CUST-0727	Male	0	No	Yes	15	Yes	DSL	No	No	Two year	Yes	Mailed check	59.62	888.28	No	0
+CUST-0728	Female	0	Yes	Yes	18	Yes	DSL	No	No	Month-to-month	No	Bank transfer (automatic)	59.28	1098.59	Yes	1
+CUST-0729	Male	0	Yes	No	59	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	63.03	3801.65	No	0
+CUST-0730	Female	0	No	No	63	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	79.12	5018.67	No	0
+CUST-0731	Female	0	No	No	1	Yes	No	No	No	One year	Yes	Mailed check	21.39	52.56	No	0
+CUST-0732	Male	1	Yes	No	19	Yes	DSL	Yes	Yes	Two year	Yes	Mailed check	68.83	1290.49	No	0
+CUST-0733	Female	1	No	No	54	Yes	DSL	No	Yes	One year	No	Bank transfer (automatic)	68.61	3751.55	Yes	1
+CUST-0734	Male	0	Yes	No	10	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	89.88	858.81	No	0
+CUST-0735	Male	0	Yes	No	34	Yes	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	57.38	2030.87	Yes	1
+CUST-0736	Female	0	Yes	Yes	47	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	95.73	4496.21	No	0
+CUST-0737	Female	0	Yes	Yes	31	No	DSL	No	Yes	Month-to-month	Yes	Mailed check	69.24	2168.56	No	0
+CUST-0738	Male	0	No	No	64	Yes	Fiber optic	Yes	No	One year	No	Electronic check	73.3	4770.2	No	0
+CUST-0739	Male	0	No	Yes	49	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	57.3	2730.82	Yes	1
+CUST-0740	Female	0	No	No	11	Yes	Fiber optic	Yes	No	Two year	Yes	Credit card (automatic)	78.46	853.33	Yes	1
+CUST-0741	Female	0	No	No	67	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	64.22	4305.46	No	0
+CUST-0742	Female	0	Yes	No	66	Yes	DSL	No	No	Two year	Yes	Electronic check	52.95	3503.26	No	0
+CUST-0743	Male	0	Yes	No	61	Yes	No	No	No	Month-to-month	No	Mailed check	18	1049.53	No	0
+CUST-0744	Female	0	Yes	No	45	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	71.25	3193.49	No	0
+CUST-0745	Female	0	No	Yes	20	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	95.15	1884.81	Yes	1
+CUST-0746	Male	0	No	Yes	53	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	97.8	5094.17	No	0
+CUST-0747	Male	0	No	No	8	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	77.75	630.73	No	0
+CUST-0748	Male	0	Yes	Yes	63	Yes	Fiber optic	Yes	Yes	One year	Yes	Credit card (automatic)	89.03	5624.31	No	0
+CUST-0749	Male	0	No	No	65	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	51.76	3370.07	No	0
+CUST-0750	Male	0	No	Yes	72	Yes	No	No	No	Month-to-month	No	Mailed check	18	1320.69	No	0
+CUST-0751	Male	0	No	No	22	Yes	DSL	No	Yes	Two year	Yes	Mailed check	58.01	1253.24	No	0
+CUST-0752	Male	0	Yes	No	11	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	85.96	954.49	Yes	1
+CUST-0753	Male	1	Yes	No	64	Yes	Fiber optic	Yes	Yes	Two year	No	Electronic check	88.43	5657.23	No	0
+CUST-0754	Female	0	No	No	17	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	73.72	1280.71	No	0
+CUST-0755	Male	0	No	No	37	Yes	DSL	Yes	No	Two year	Yes	Electronic check	53.97	2034.94	Yes	1
+CUST-0756	Female	0	No	No	10	No	Fiber optic	No	No	Month-to-month	Yes	Electronic check	99.25	1008.49	Yes	1
+CUST-0757	Female	0	Yes	No	44	No	Fiber optic	Yes	No	Month-to-month	No	Credit card (automatic)	85.37	3743.19	No	0
+CUST-0758	Male	0	No	No	58	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	83.52	4876.69	No	0
+CUST-0759	Female	0	No	No	65	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	82.92	5377.54	Yes	1
+CUST-0760	Female	1	Yes	No	25	Yes	DSL	No	Yes	Month-to-month	Yes	Mailed check	69.73	1839.68	No	0
+CUST-0761	Male	0	No	No	9	Yes	DSL	Yes	No	Two year	Yes	Electronic check	61.88	518.77	Yes	1
+CUST-0762	Male	1	Yes	Yes	43	Yes	Fiber optic	No	No	One year	Yes	Credit card (automatic)	86.27	3748.14	Yes	1
+CUST-0763	Female	0	Yes	Yes	7	Yes	Fiber optic	Yes	No	One year	Yes	Credit card (automatic)	80.11	620.57	No	0
+CUST-0764	Female	0	No	Yes	39	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	79.1	3075.66	No	0
+CUST-0765	Female	1	No	No	13	Yes	DSL	Yes	No	Month-to-month	No	Mailed check	58.71	718.03	Yes	1
+CUST-0766	Female	0	No	Yes	45	Yes	DSL	No	No	One year	Yes	Mailed check	51.37	2350.14	No	0
+CUST-0767	Male	0	Yes	No	22	Yes	Fiber optic	Yes	Yes	One year	Yes	Bank transfer (automatic)	87.68	2010.79	No	0
+CUST-0768	Female	0	No	Yes	48	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	65.98	3176.43	No	0
+CUST-0769	Female	0	Yes	No	25	Yes	No	No	Yes	Month-to-month	Yes	Mailed check	23.12	565.38	Yes	1
+CUST-0770	Female	0	No	No	16	Yes	Fiber optic	No	No	One year	No	Bank transfer (automatic)	81.44	1271.72	Yes	1
+CUST-0771	Female	0	Yes	No	28	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	79.37	2146.3	No	0
+CUST-0772	Male	0	Yes	No	56	Yes	Fiber optic	Yes	No	One year	Yes	Mailed check	92.56	5217.39	No	0
+CUST-0773	Female	1	Yes	No	9	Yes	DSL	Yes	No	Two year	Yes	Electronic check	50.72	506.56	No	0
+CUST-0774	Male	0	No	No	5	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	53.05	253.82	No	0
+CUST-0775	Female	0	No	No	67	Yes	Fiber optic	No	Yes	Month-to-month	No	Electronic check	85.64	5665.53	No	0
+CUST-0776	Male	1	No	No	37	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	81.99	3127.63	Yes	1
+CUST-0777	Female	0	Yes	No	27	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	75.6	2060.02	No	0
+CUST-0778	Male	0	Yes	Yes	33	Yes	No	No	No	Month-to-month	No	Electronic check	18	639.61	Yes	1
+CUST-0779	Male	0	Yes	No	23	No	Fiber optic	No	No	Month-to-month	Yes	Electronic check	69.565	2131.47	Yes	1
+CUST-0780	Male	0	No	Yes	68	No	Fiber optic	No	No	One year	Yes	Bank transfer (automatic)	93.13	6323.25	No	0
+CUST-0781	Male	0	No	Yes	52	Yes	DSL	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	57.51	3017.19	No	0
+CUST-0782	Male	0	No	No	49	No	DSL	Yes	Yes	Two year	No	Bank transfer (automatic)	49.16	2467.35	No	0
+CUST-0783	Male	0	No	Yes	52	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	62.9	3297.02	Yes	1
+CUST-0784	Male	1	No	Yes	15	Yes	DSL	Yes	No	One year	Yes	Electronic check	66.35	1052.38	No	0
+CUST-0785	Male	0	No	Yes	14	Yes	Fiber optic	No	No	One year	Yes	Mailed check	90.55	1284.27	Yes	1
+CUST-0786	Male	0	No	Yes	55	Yes	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	20.41	1141.88	Yes	1
+CUST-0787	Male	0	Yes	Yes	10	Yes	Fiber optic	No	No	Two year	No	Electronic check	84.25	898.55	No	0
+CUST-0788	Male	0	No	No	46	No	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	83.98	3867.35	Yes	1
+CUST-0789	Female	0	No	No	37	Yes	No	Yes	No	Month-to-month	Yes	Mailed check	28.49	1059.02	No	0
+CUST-0790	Male	0	Yes	No	6	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	58.51	323.82	No	0
+CUST-0791	Male	0	Yes	Yes	16	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	86.04	1410.08	No	0
+CUST-0792	Female	0	Yes	No	71	No	Fiber optic	No	No	Month-to-month	Yes	Mailed check	94.26	6663.33	No	0
+CUST-0793	Female	0	Yes	No	31	Yes	No	No	Yes	One year	Yes	Electronic check	21.42	628.89	Yes	1
+CUST-0794	Female	0	No	Yes	39	Yes	DSL	No	No	One year	Yes	Electronic check	68.94	2776.92	Yes	1
+CUST-0795	Male	0	Yes	No	36	Yes	DSL	Yes	No	Two year	No	Electronic check	49.82	1747.97	No	0
+CUST-0796	Female	0	No	Yes	37	Yes	DSL	Yes	Yes	One year	Yes	Electronic check	66.77	2452.32	No	0
+CUST-0797	Male	0	Yes	Yes	55	Yes	DSL	No	Yes	Month-to-month	No	Mailed check	59.57	3307.09	No	0
+CUST-0798	Female	0	No	No	47	Yes	DSL	No	Yes	Month-to-month	No	Electronic check	64.59	3115.64	Yes	1
+CUST-0799	Male	0	Yes	No	9	No	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	89.89	769.32	No	0
+CUST-0800	Female	0	Yes	No	62	Yes	No	No	No	Month-to-month	Yes	Electronic check	23.4	1439.13	No	0
+CUST-0801	Male	0	No	No	51	Yes	Fiber optic	Yes	No	One year	Yes	Electronic check	95.32	4796.41	No	0
+CUST-0802	Male	0	Yes	No	14	Yes	DSL	No	No	One year	No	Mailed check	65.01	872.68	Yes	1
+CUST-0803	Male	0	No	Yes	15	Yes	Fiber optic	No	No	Month-to-month	No	Credit card (automatic)	87.58	1337.47	No	0
+CUST-0804	Female	0	Yes	No	71	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	82.34	5836.57	No	0
+CUST-0805	Female	0	No	Yes	18	Yes	Fiber optic	No	Yes	Month-to-month	No	Mailed check	88.9	1693.05	No	0
+CUST-0806	Female	1	Yes	Yes	16	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	95.21	1518.88	Yes	1
+CUST-0807	Male	0	No	No	55	Yes	No	No	No	One year	Yes	Bank transfer (automatic)	18	1008.29	No	0
+CUST-0808	Male	0	Yes	Yes	23	Yes	DSL	No	Yes	Month-to-month	Yes	Mailed check	75.23	1729.88	No	0
+CUST-0809	Female	1	Yes	No	37	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	93.34	3403.31	Yes	1
+CUST-0810	Male	0	Yes	No	72	Yes	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	73.13	5277.27	No	0
+CUST-0811	Female	0	Yes	Yes	30	Yes	Fiber optic	Yes	Yes	One year	Yes	Electronic check	104.34	3118.47	No	0
+CUST-0812	Male	0	No	No	12	Yes	Fiber optic	No	Yes	Month-to-month	No	Electronic check	90.39	1110.95	No	0
+CUST-0813	Female	0	No	No	13	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	95.9	1248.76	Yes	1
+CUST-0814	Male	0	No	No	63	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	52.23	3276.42	Yes	1
+CUST-0815	Female	0	No	Yes	39	Yes	Fiber optic	Yes	No	Month-to-month	No	Bank transfer (automatic)	83.31	3196.5	Yes	1
+CUST-0816	Male	0	Yes	No	12	Yes	DSL	No	No	One year	No	Credit card (automatic)	54.94	647.35	No	0
+CUST-0817	Male	0	Yes	No	22	Yes	Fiber optic	No	Yes	Two year	Yes	Electronic check	87.2	1925.32	Yes	1
+CUST-0818	Female	0	No	No	1	Yes	Fiber optic	Yes	No	Two year	Yes	Mailed check	75.6	60.58	No	0
+CUST-0819	Male	0	Yes	Yes	70	Yes	DSL	Yes	Yes	Two year	Yes	Electronic check	58.53	4064.71	No	0
+CUST-0820	Female	0	No	No	12	Yes	DSL	Yes	Yes	Month-to-month	No	Credit card (automatic)	55.25	719.15	No	0
+CUST-0821	Female	0	Yes	Yes	40	Yes	DSL	No	Yes	Month-to-month	No	Bank transfer (automatic)	53.68	2140.06	No	0
+CUST-0822	Female	1	Yes	No	17	No	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	80.75	1359.18	Yes	1
+CUST-0823	Male	1	No	No	16	Yes	DSL	Yes	Yes	Two year	Yes	Credit card (automatic)	61.52	951.79	No	0
+CUST-0824	Male	0	No	No	7	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	98.99	696.1	Yes	1
+CUST-0825	Male	0	No	No	33	Yes	Fiber optic	Yes	No	One year	Yes	Bank transfer (automatic)	89.24	2920.87	Yes	1
+CUST-0826	Male	0	No	Yes	69	Yes	DSL	No	No	Two year	Yes	Credit card (automatic)	53.68	3718.39	No	0
+CUST-0827	Male	0	No	Yes	51	Yes	DSL	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	48.13	2429.49	No	0
+CUST-0828	Male	0	No	No	10	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	46.08	469.24	Yes	1
+CUST-0829	Female	0	No	Yes	27	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	63.13	1757.84	Yes	1
+CUST-0830	Female	0	No	Yes	67	Yes	Fiber optic	Yes	Yes	Two year	Yes	Mailed check	89.48	5979.27	No	0
+CUST-0831	Male	0	Yes	No	27	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	84.36	2253.84	No	0
+CUST-0832	Male	0	No	No	1	No	DSL	Yes	No	Month-to-month	Yes	Mailed check	64.49	41.29	Yes	1
+CUST-0833	Male	0	No	No	62	Yes	Fiber optic	Yes	No	Month-to-month	No	Electronic check	75.53	4652.39	Yes	1
+CUST-0834	Female	0	No	No	26	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	94.85	2425.87	No	0
+CUST-0835	Female	0	Yes	Yes	25	No	No	No	No	Month-to-month	No	Electronic check	25.59	662.18	Yes	1
+CUST-0836	Female	0	No	Yes	70	Yes	DSL	No	No	Two year	No	Electronic check	42.25	2950.6	No	0
+CUST-0837	Male	0	No	Yes	52	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	51.01	2683.81	No	0
+CUST-0838	Female	0	No	No	43	Yes	No	Yes	No	One year	Yes	Mailed check	34.7	1428.31	No	0
+CUST-0839	Female	0	Yes	No	34	Yes	DSL	Yes	Yes	Two year	Yes	Bank transfer (automatic)	47.99	1644.08	No	0
+CUST-0840	Male	0	Yes	No	49	Yes	DSL	No	No	Month-to-month	Yes	Mailed check	51.39	2529.26	No	0
+CUST-0841	Male	0	No	No	26	Yes	No	Yes	No	Two year	Yes	Mailed check	18	454.2	Yes	1
+CUST-0842	Male	0	Yes	No	21	Yes	DSL	Yes	Yes	One year	Yes	Bank transfer (automatic)	54.94	1175.97	No	0
+CUST-0843	Male	0	Yes	Yes	55	Yes	DSL	Yes	No	Two year	Yes	Electronic check	67.42	3742.16	No	0
+CUST-0844	Female	0	Yes	No	4	Yes	DSL	No	No	Two year	No	Credit card (automatic)	54.82	208.8	No	0
+CUST-0845	Male	1	Yes	Yes	39	No	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	46.54	1871.48	No	0
+CUST-0846	Male	1	Yes	Yes	15	Yes	No	Yes	Yes	Month-to-month	Yes	Electronic check	31.57	435.61	No	0
+CUST-0847	Male	0	Yes	No	64	Yes	Fiber optic	No	No	One year	No	Credit card (automatic)	94.95	6092.39	No	0
+CUST-0848	Female	0	Yes	No	41	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	52.46	2174.79	No	0
+CUST-0849	Male	1	No	No	23	No	Fiber optic	No	No	One year	Yes	Mailed check	93.35	2161.79	No	0
+CUST-0850	Female	0	Yes	No	61	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	91.7	5576.7	No	0
+CUST-0851	Male	0	Yes	No	72	Yes	No	No	No	One year	Yes	Electronic check	24.17	1723.74	No	0
+CUST-0852	Female	0	No	No	16	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	50.03	738.81	No	0
+CUST-0853	Female	0	Yes	No	16	Yes	DSL	No	Yes	One year	Yes	Electronic check	48.72	734.61	No	0
+CUST-0854	Female	0	No	Yes	54	Yes	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	25.55	1365.99	No	0
+CUST-0855	Male	0	No	No	8	No	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	89.36	726.94	Yes	1
+CUST-0856	Female	0	Yes	Yes	29	Yes	Fiber optic	Yes	No	Two year	Yes	Electronic check	92.87	2731.5	No	0
+CUST-0857	Female	1	Yes	No	29	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Mailed check	87.48	2545.53	Yes	1
+CUST-0858	Female	0	No	No	6	Yes	DSL	Yes	Yes	One year	No	Credit card (automatic)	56.06	302.47	Yes	1
+CUST-0859	Male	1	Yes	No	24	No	Fiber optic	Yes	No	One year	Yes	Electronic check	81.11	1990.08	Yes	1
+CUST-0860	Female	0	Yes	No	8	Yes	DSL	Yes	No	Month-to-month	No	Mailed check	56.46	469.43	No	0
+CUST-0861	Female	0	Yes	No	72	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Bank transfer (automatic)	87.41	6352.75	No	0
+CUST-0862	Female	0	No	Yes	30	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	55.97	1654.57	No	0
+CUST-0863	Male	0	No	No	43	Yes	No	Yes	No	One year	Yes	Electronic check	25	1039.26	No	0
+CUST-0864	Female	0	No	Yes	61	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	85.53	5226.69	No	0
+CUST-0865	Female	0	Yes	Yes	38	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	95.2	3644.49	Yes	1
+CUST-0866	Male	0	Yes	No	52	Yes	Fiber optic	No	No	Two year	Yes	Mailed check	81.73	4217.67	No	0
+CUST-0867	Male	0	No	No	16	Yes	Fiber optic	No	Yes	Two year	Yes	Credit card (automatic)	91.2	1430.28	No	0
+CUST-0868	Male	0	Yes	No	19	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	87.49	1645.35	No	0
+CUST-0869	Male	1	No	No	31	Yes	Fiber optic	No	Yes	One year	Yes	Bank transfer (automatic)	95.01	2986	No	0
+CUST-0870	Male	1	No	No	34	No	DSL	Yes	No	Month-to-month	Yes	Electronic check	62.41	2078.21	No	0
+CUST-0871	Female	0	No	No	32	Yes	Fiber optic	No	No	Month-to-month	No	Credit card (automatic)	84.7	2678.68	Yes	1
+CUST-0872	Male	0	No	Yes	39	Yes	DSL	No	Yes	One year	No	Mailed check	61.69	2447.8	No	0
+CUST-0873	Male	0	Yes	No	11	No	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	53.16	556.59	Yes	1
+CUST-0874	Male	0	Yes	Yes	28	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	55.53	1507.89	No	0
+CUST-0875	Female	0	No	Yes	54	Yes	Fiber optic	Yes	No	Month-to-month	No	Credit card (automatic)	92.54	5026.48	No	0
+CUST-0876	Female	0	Yes	No	56	Yes	DSL	No	No	Month-to-month	No	Electronic check	56.18	3213.95	No	0
+CUST-0877	Female	1	Yes	No	56	Yes	DSL	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	49.56	2744.09	No	0
+CUST-0878	Male	0	No	No	8	Yes	No	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	18	142.06	Yes	1
+CUST-0879	Female	1	Yes	Yes	13	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	74.94	999.43	No	0
+CUST-0880	Male	0	No	No	32	Yes	DSL	No	No	One year	Yes	Mailed check	53.06	1748.6	Yes	1
+CUST-0881	Female	1	Yes	No	65	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	95.29	6067.12	No	0
+CUST-0882	Female	0	No	No	23	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	85.2	1915.32	No	0
+CUST-0883	Male	0	No	No	24	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	94.15	2323.42	No	0
+CUST-0884	Female	0	No	Yes	41	No	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	87.83	3604.5	No	0
+CUST-0885	Male	0	No	No	65	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	54.47	3504.47	No	0
+CUST-0886	Female	0	No	No	20	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	54.64	1058.17	Yes	1
+CUST-0887	Female	0	Yes	No	66	Yes	DSL	No	No	Two year	Yes	Electronic check	57.96	3789.01	No	0
+CUST-0888	Male	1	No	No	36	No	No	Yes	Yes	Month-to-month	No	Credit card (automatic)	21.95	796.98	No	0
+CUST-0889	Male	0	Yes	No	3	Yes	DSL	No	Yes	Month-to-month	Yes	Credit card (automatic)	66.54	209.2	No	0
+CUST-0890	Female	0	No	No	19	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	79.93	1546.95	Yes	1
+CUST-0891	Female	0	No	Yes	54	Yes	DSL	Yes	No	One year	Yes	Bank transfer (automatic)	49.79	2654.23	No	0
+CUST-0892	Female	0	No	Yes	29	Yes	No	No	Yes	Month-to-month	Yes	Mailed check	25.34	644.03	No	0
+CUST-0893	Female	1	Yes	No	71	Yes	Fiber optic	Yes	No	One year	Yes	Credit card (automatic)	81.39	5812.48	No	0
+CUST-0894	Male	0	No	No	56	Yes	Fiber optic	No	Yes	One year	Yes	Credit card (automatic)	87.21	4813.66	No	0
+CUST-0895	Female	0	No	No	71	Yes	DSL	No	Yes	Month-to-month	Yes	Credit card (automatic)	53.37	3761.73	No	0
+CUST-0896	Female	0	No	No	48	Yes	No	No	Yes	Month-to-month	No	Mailed check	18	903.72	No	0
+CUST-0897	Female	0	Yes	No	67	Yes	Fiber optic	Yes	Yes	One year	Yes	Electronic check	86.63	5838.56	No	0
+CUST-0898	Male	0	No	Yes	69	Yes	DSL	Yes	Yes	Month-to-month	Yes	Mailed check	60.54	4214.21	Yes	1
+CUST-0899	Female	0	No	No	67	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Credit card (automatic)	91.86	6153.07	No	0
+CUST-0900	Female	0	Yes	No	19	Yes	DSL	No	Yes	Two year	Yes	Mailed check	63.51	1228.69	No	0
+CUST-0901	Female	0	No	No	27	Yes	DSL	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	67.71	1788.15	Yes	1
+CUST-0902	Male	0	No	No	47	No	No	Yes	No	Two year	No	Mailed check	21.2	1008.73	No	0
+CUST-0903	Male	0	Yes	Yes	38	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	73.29	2781.5	No	0
+CUST-0904	Female	0	Yes	No	14	No	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	63.66	884.28	No	0
+CUST-0905	Female	0	Yes	No	17	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	85.05	1455.43	Yes	1
+CUST-0906	Male	1	Yes	No	21	Yes	Fiber optic	Yes	Yes	One year	Yes	Credit card (automatic)	92.75	2040.02	No	0
+CUST-0907	Male	1	No	No	37	Yes	DSL	Yes	No	Two year	Yes	Electronic check	49.48	1773.28	No	0
+CUST-0908	Female	0	No	Yes	61	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	84.14	5088.84	No	0
+CUST-0909	Female	0	No	No	50	Yes	Fiber optic	No	No	One year	Yes	Credit card (automatic)	88.46	4408.51	No	0
+CUST-0910	Male	0	Yes	No	9	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	50.57	347.2	Yes	1
+CUST-0911	Female	0	No	No	66	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	81.43	5361.13	No	0
+CUST-0912	Male	0	No	Yes	63	Yes	DSL	Yes	Yes	One year	Yes	Credit card (automatic)	68.37	4347.78	No	0
+CUST-0913	Female	0	No	Yes	68	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	71.33	4845.08	No	0
+CUST-0914	Female	0	Yes	Yes	59	Yes	No	No	No	One year	Yes	Mailed check	21.32	1288.47	No	0
+CUST-0915	Male	0	Yes	Yes	29	Yes	No	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	69.565	584.36	No	0
+CUST-0916	Female	1	No	No	47	No	Fiber optic	Yes	No	Two year	Yes	Electronic check	67.07	3166.45	No	0
+CUST-0917	Male	0	Yes	No	51	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	95.98	4920.18	No	0
+CUST-0918	Female	0	No	Yes	52	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	79.18	4135.49	No	0
+CUST-0919	Female	0	No	No	68	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	76.26	5141.28	No	0
+CUST-0920	Female	0	Yes	No	67	No	No	Yes	No	Month-to-month	Yes	Credit card (automatic)	30.45	2066.52	No	0
+CUST-0921	Male	0	Yes	Yes	28	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	82.33	2324.74	No	0
+CUST-0922	Male	0	No	No	12	Yes	Fiber optic	No	No	Two year	No	Electronic check	84.1	986.16	Yes	1
+CUST-0923	Female	0	No	No	42	Yes	Fiber optic	Yes	No	Month-to-month	No	Credit card (automatic)	77.07	3248.91	Yes	1
+CUST-0924	Female	0	Yes	Yes	18	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	82.82	1460.35	No	0
+CUST-0925	Female	0	Yes	No	60	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	80.1	4797.75	No	0
+CUST-0926	Male	0	Yes	Yes	48	Yes	No	No	No	One year	Yes	Credit card (automatic)	18	791.35	No	0
+CUST-0927	Male	0	No	No	50	Yes	No	Yes	Yes	Month-to-month	Yes	Mailed check	29.43	1492.68	No	0
+CUST-0928	Male	0	Yes	No	57	No	DSL	No	Yes	Month-to-month	No	Electronic check	58.31	3294.85	No	0
+CUST-0929	Female	0	No	No	11	Yes	DSL	No	No	Month-to-month	No	Mailed check	55.92	604.23	No	0
+CUST-0930	Female	1	No	No	51	Yes	No	No	Yes	Month-to-month	Yes	Credit card (automatic)	32.08	1632.1	No	0
+CUST-0931	Male	0	No	No	12	Yes	DSL	No	No	Month-to-month	Yes	Mailed check	63.4	735.62	Yes	1
+CUST-0932	Male	0	No	Yes	2	Yes	Fiber optic	Yes	No	Month-to-month	No	Credit card (automatic)	84.92	159.08	No	0
+CUST-0933	Female	0	No	No	4	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	61.34	230.74	No	0
+CUST-0934	Male	1	Yes	No	60	Yes	DSL	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	63.83	3784.87	No	0
+CUST-0935	Female	0	Yes	No	15	Yes	DSL	No	No	Month-to-month	Yes	Mailed check	69.565	799.09	No	0
+CUST-0936	Female	0	No	No	38	No	DSL	No	Yes	One year	No	Bank transfer (automatic)	68.05	2590.77	No	0
+CUST-0937	Male	0	No	No	61	Yes	Fiber optic	No	No	Two year	No	Mailed check	76.27	4570.57	No	0
+CUST-0938	Female	0	No	No	35	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	73.98	2629.14	Yes	1
+CUST-0939	Female	0	Yes	No	71	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	48.67	3456.9	No	0
+CUST-0940	Female	0	No	Yes	63	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	79.09	4999.56	No	0
+CUST-0941	Male	0	Yes	No	45	Yes	DSL	No	No	Month-to-month	No	Bank transfer (automatic)	62.9	2830.92	Yes	1
+CUST-0942	Male	0	Yes	Yes	1	Yes	DSL	No	Yes	Two year	Yes	Bank transfer (automatic)	72.35	117.91	Yes	1
+CUST-0943	Male	0	No	No	56	No	Fiber optic	Yes	Yes	Two year	Yes	Bank transfer (automatic)	86.21	4866.4	No	0
+CUST-0944	Female	0	No	Yes	55	Yes	DSL	No	No	Month-to-month	No	Mailed check	55.19	3096.44	No	0
+CUST-0945	Male	1	Yes	No	9	Yes	DSL	No	Yes	One year	Yes	Bank transfer (automatic)	55.95	535.62	No	0
+CUST-0946	Male	0	Yes	No	34	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	61.2	2178.51	No	0
+CUST-0947	Female	0	No	Yes	17	Yes	Fiber optic	Yes	Yes	Two year	No	Electronic check	96.46	1651.47	No	0
+CUST-0948	Male	0	No	Yes	37	Yes	DSL	Yes	Yes	Month-to-month	No	Bank transfer (automatic)	55.42	2023.54	No	0
+CUST-0949	Female	0	Yes	Yes	67	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	87.74	5893.72	No	0
+CUST-0950	Female	0	Yes	No	53	No	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	32.32	1662.45	Yes	1
+CUST-0951	Female	1	Yes	Yes	40	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Credit card (automatic)	92.5	3617.72	No	0
+CUST-0952	Male	0	No	Yes	47	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	54.34	2591.67	No	0
+CUST-0953	Male	1	Yes	Yes	44	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	94.28	4163.74	No	0
+CUST-0954	Female	0	Yes	Yes	51	Yes	DSL	No	No	One year	No	Electronic check	58.51	2982.81	No	0
+CUST-0955	Female	0	No	No	53	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	96.86	5191.2	Yes	1
+CUST-0956	Female	0	No	No	26	Yes	Fiber optic	Yes	No	Month-to-month	No	Mailed check	64.72	1697.13	Yes	1
+CUST-0957	Male	1	No	No	72	Yes	Fiber optic	Yes	No	Month-to-month	No	Credit card (automatic)	88.01	6370.44	No	0
+CUST-0958	Male	0	No	No	36	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	106.83	3872.89	No	0
+CUST-0959	Male	0	No	No	34	No	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	41.63	1393.92	No	0
+CUST-0960	Female	0	No	No	68	Yes	Fiber optic	No	Yes	Month-to-month	No	Electronic check	90.05	6139.87	No	0
+CUST-0961	Male	0	No	Yes	50	Yes	Fiber optic	No	No	Two year	No	Electronic check	86.99	4289.85	No	0
+CUST-0962	Male	1	No	No	55	No	Fiber optic	Yes	No	Month-to-month	Yes	Credit card (automatic)	92.56	5124.93	No	0
+CUST-0963	Female	0	No	No	44	Yes	No	Yes	Yes	Month-to-month	Yes	Electronic check	30.16	1368.31	No	0
+CUST-0964	Male	1	No	Yes	15	Yes	No	No	Yes	Two year	No	Bank transfer (automatic)	28.31	432.12	No	0
+CUST-0965	Female	0	No	Yes	62	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	66.09	4112.61	No	0
+CUST-0966	Female	0	Yes	No	46	Yes	DSL	No	No	Two year	Yes	Bank transfer (automatic)	67.12	3089.97	No	0
+CUST-0967	Male	1	Yes	No	34	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	79.56	2653.07	No	0
+CUST-0968	Male	1	No	No	37	Yes	No	Yes	No	Month-to-month	No	Mailed check	18	709.83	No	0
+CUST-0969	Male	0	No	No	27	Yes	Fiber optic	No	No	One year	Yes	Mailed check	88.25	2389.09	No	0
+CUST-0970	Female	0	Yes	Yes	23	Yes	DSL	No	No	One year	No	Credit card (automatic)	42.08	1023.33	Yes	1
+CUST-0971	Female	0	No	No	48	Yes	Fiber optic	No	No	One year	Yes	Bank transfer (automatic)	86.69	4153.1	No	0
+CUST-0972	Female	0	No	Yes	33	Yes	Fiber optic	No	Yes	Month-to-month	No	Credit card (automatic)	86.11	2807.56	No	0
+CUST-0973	Female	0	Yes	No	27	Yes	DSL	Yes	No	One year	No	Electronic check	32.38	871.06	No	0
+CUST-0974	Female	0	No	No	30	Yes	Fiber optic	Yes	No	Month-to-month	No	Bank transfer (automatic)	86.33	2607.53	No	0
+CUST-0975	Female	0	No	Yes	67	Yes	DSL	Yes	No	Two year	Yes	Mailed check	54.99	3655.04	No	0
+CUST-0976	Male	0	Yes	No	49	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Mailed check	87.5	4331.34	No	0
+CUST-0977	Female	0	No	No	56	Yes	Fiber optic	No	No	One year	Yes	Credit card (automatic)	93.9	5230.59	No	0
+CUST-0978	Male	0	Yes	No	23	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	86.24	2016.77	No	0
+CUST-0979	Male	0	No	No	30	Yes	Fiber optic	Yes	Yes	One year	Yes	Credit card (automatic)	95.14	2767.99	No	0
+CUST-0980	Female	0	Yes	No	20	Yes	Fiber optic	Yes	Yes	Two year	No	Bank transfer (automatic)	92.35	1806.34	No	0
+CUST-0981	Female	1	No	Yes	48	No	DSL	No	Yes	Month-to-month	Yes	Electronic check	62.2	2980.53	Yes	1
+CUST-0982	Female	0	No	No	33	Yes	Fiber optic	Yes	Yes	One year	No	Bank transfer (automatic)	99.43	3306.42	No	0
+CUST-0983	Male	1	No	No	35	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	85.27	2970.06	No	0
+CUST-0984	Female	0	Yes	Yes	57	Yes	Fiber optic	No	No	One year	No	Electronic check	77.79	4400.71	No	0
+CUST-0985	Male	0	No	No	61	Yes	Fiber optic	No	No	One year	Yes	Credit card (automatic)	87.43	5401.04	No	0
+CUST-0986	Male	0	Yes	No	57	Yes	Fiber optic	No	No	One year	Yes	Electronic check	100.91	5783.38	No	0
+CUST-0987	Male	0	No	Yes	66	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	77.44	5073.19	No	0
+CUST-0988	Male	1	No	No	68	Yes	DSL	Yes	No	One year	No	Bank transfer (automatic)	45.11	3074.89	No	0
+CUST-0989	Female	0	Yes	Yes	63	Yes	DSL	No	No	One year	Yes	Credit card (automatic)	54.57	3447.34	No	0
+CUST-0990	Female	0	Yes	No	44	Yes	DSL	No	No	Month-to-month	No	Mailed check	39.72	1792.53	Yes	1
+CUST-0991	Female	0	Yes	No	6	Yes	Fiber optic	No	Yes	Month-to-month	No	Bank transfer (automatic)	86.98	524.69	No	0
+CUST-0992	Female	0	No	Yes	26	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	51.65	1301.54	Yes	1
+CUST-0993	Female	0	No	No	24	No	Fiber optic	No	No	Two year	No	Mailed check	87.96	2076.75	No	0
+CUST-0994	Male	1	Yes	No	72	Yes	Fiber optic	Yes	No	One year	No	Mailed check	92.28	6647.22	No	0
+CUST-0995	Male	0	No	No	62	Yes	Fiber optic	No	Yes	Two year	Yes	Electronic check	89.46	5576.42	No	0
+CUST-0996	Female	0	Yes	Yes	31	Yes	DSL	No	Yes	Month-to-month	Yes	Mailed check	56.35	1737.25	No	0
+CUST-0997	Female	0	No	No	50	Yes	Fiber optic	Yes	Yes	One year	Yes	Electronic check	81.19	3991.76	No	0
+CUST-0998	Female	0	Yes	No	71	Yes	No	No	No	One year	Yes	Mailed check	26.87	1906.88	No	0
+CUST-0999	Female	0	Yes	No	53	Yes	No	Yes	No	One year	No	Electronic check	18.97	951	No	0
+CUST-1000	Female	0	No	No	54	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	85.04	4555.7	No	0
+CUST-1001	Male	0	No	No	44	Yes	DSL	No	Yes	One year	Yes	Credit card (automatic)	69.62	3095.95	No	0
+CUST-1002	Female	0	Yes	No	53	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	88.76	4698.92	Yes	1
+CUST-1003	Female	0	Yes	No	16	Yes	Fiber optic	No	No	Month-to-month	No	Bank transfer (automatic)	79.75	1283.12	Yes	1
+CUST-1004	Female	0	Yes	No	11	Yes	Fiber optic	Yes	No	One year	No	Mailed check	69.8	739.16	No	0
+CUST-1005	Female	0	Yes	No	20	Yes	No	No	No	One year	Yes	Electronic check	18	387.93	Yes	1
+CUST-1006	Female	0	No	No	4	Yes	Fiber optic	Yes	No	One year	Yes	Electronic check	95.17	376.79	No	0
+CUST-1007	Male	0	Yes	Yes	4	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	88.12	2060.275	Yes	1
+CUST-1008	Male	0	No	No	72	Yes	DSL	Yes	No	One year	Yes	Bank transfer (automatic)	65.02	4681.91	No	0
+CUST-1009	Male	0	No	No	64	Yes	Fiber optic	Yes	No	One year	Yes	Electronic check	88.38	5709.94	No	0
+CUST-1010	Female	0	No	Yes	71	No	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	56.49	4025.87	No	0
+CUST-1011	Male	0	No	No	50	Yes	DSL	No	No	Month-to-month	No	Credit card (automatic)	47.99	2376.58	No	0
+CUST-1012	Female	1	No	No	7	Yes	DSL	No	No	One year	Yes	Mailed check	72.47	519.34	No	0
+CUST-1013	Male	0	Yes	No	63	Yes	DSL	No	Yes	One year	Yes	Electronic check	72.56	4586.07	No	0
+CUST-1014	Male	0	Yes	No	56	Yes	Fiber optic	Yes	No	One year	No	Credit card (automatic)	80.67	4503.8	No	0
+CUST-1015	Male	0	No	Yes	3	Yes	DSL	Yes	No	One year	Yes	Credit card (automatic)	64.08	165.74	No	0
+CUST-1016	Male	0	No	No	2	Yes	Fiber optic	No	Yes	One year	Yes	Electronic check	87.98	171.95	Yes	1
+CUST-1017	Male	1	Yes	Yes	18	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	92.19	1660.03	Yes	1
+CUST-1018	Female	1	No	No	64	Yes	DSL	No	Yes	Month-to-month	No	Mailed check	69.8	4444.43	No	0
+CUST-1019	Female	0	No	No	28	Yes	Fiber optic	Yes	Yes	One year	Yes	Mailed check	92.37	2580.19	No	0
+CUST-1020	Male	0	No	No	5	Yes	DSL	No	Yes	Month-to-month	Yes	Mailed check	65.78	392.12	Yes	1
+CUST-1021	Male	0	No	No	42	Yes	No	No	Yes	Two year	No	Credit card (automatic)	21.52	910.8	Yes	1
+CUST-1022	Female	0	Yes	Yes	24	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	91.38	2143.46	No	0
+CUST-1023	Male	1	Yes	No	56	No	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	55.73	3116.02	No	0
+CUST-1024	Female	0	Yes	No	53	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	77.54	4114.83	No	0
+CUST-1025	Male	0	No	Yes	51	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	71.7	3646.03	No	0
+CUST-1026	Female	0	Yes	No	43	Yes	Fiber optic	Yes	No	Month-to-month	No	Mailed check	102.42	4410.86	No	0
+CUST-1027	Female	0	No	No	69	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	93.29	6429.59	No	0
+CUST-1028	Female	1	No	No	20	Yes	DSL	No	No	One year	No	Electronic check	44.95	896.51	No	0
+CUST-1029	Male	0	No	No	48	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	91.42	4368.97	No	0
+CUST-1030	Male	0	No	No	45	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	82.1	3686.67	No	0
+CUST-1031	Female	0	No	No	2	No	DSL	No	Yes	One year	Yes	Credit card (automatic)	59.32	105.67	Yes	1
+CUST-1032	Female	0	Yes	No	1	Yes	Fiber optic	No	No	One year	No	Mailed check	86.83	21.92	Yes	1
+CUST-1033	Male	0	No	No	60	No	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	58.6	3443.06	Yes	1
+CUST-1034	Male	0	No	No	70	Yes	DSL	No	No	Two year	Yes	Bank transfer (automatic)	61.13	4251.89	No	0
+CUST-1035	Male	0	No	No	69	Yes	DSL	No	No	Two year	No	Electronic check	53.94	3669.44	No	0
+CUST-1036	Male	0	No	No	40	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	91.06	3679.16	No	0
+CUST-1037	Female	0	Yes	No	68	No	Fiber optic	No	Yes	Month-to-month	No	Electronic check	73.23	4940.26	No	0
+CUST-1038	Female	1	No	No	52	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	91.33	4742.49	No	0
+CUST-1039	Female	0	No	No	47	Yes	DSL	No	Yes	Month-to-month	No	Mailed check	61.51	2969.31	No	0
+CUST-1040	Male	0	No	No	58	Yes	Fiber optic	Yes	No	Month-to-month	No	Electronic check	77.17	4474.51	No	0
+CUST-1041	Male	0	No	No	60	Yes	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	19.65	1196.31	No	0
+CUST-1042	Female	1	Yes	No	31	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Credit card (automatic)	85.88	2682.71	No	0
+CUST-1043	Male	0	Yes	Yes	47	Yes	Fiber optic	No	No	Two year	Yes	Bank transfer (automatic)	86.2	4054.49	No	0
+CUST-1044	Female	0	Yes	No	43	Yes	DSL	Yes	Yes	Two year	No	Electronic check	54.22	2293.26	No	0
+CUST-1045	Female	0	No	Yes	31	Yes	No	Yes	No	One year	No	Credit card (automatic)	18	486.83	No	0
+CUST-1046	Female	0	Yes	Yes	14	Yes	Fiber optic	No	Yes	Two year	No	Mailed check	79.03	1138.5	Yes	1
+CUST-1047	Female	0	No	No	50	Yes	Fiber optic	No	No	One year	Yes	Electronic check	90.99	4540.38	No	0
+CUST-1048	Male	0	Yes	Yes	67	Yes	No	Yes	Yes	One year	Yes	Electronic check	42.31	2849.58	No	0
+CUST-1049	Female	1	No	Yes	66	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	85.77	5663.73	No	0
+CUST-1050	Male	0	No	No	19	Yes	Fiber optic	Yes	No	Two year	Yes	Mailed check	88.5	1695.69	No	0
+CUST-1051	Male	1	No	No	10	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Credit card (automatic)	98.94	970.02	Yes	1
+CUST-1052	Male	0	Yes	Yes	48	Yes	Fiber optic	No	No	Month-to-month	Yes	Credit card (automatic)	109.92	5284.79	Yes	1
+CUST-1053	Female	1	No	Yes	5	Yes	DSL	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	63.63	326	No	0
+CUST-1054	Male	0	Yes	No	25	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Mailed check	94.08	2344.01	No	0
+CUST-1055	Male	0	Yes	No	30	Yes	Fiber optic	No	No	Two year	Yes	Bank transfer (automatic)	91.96	2789.45	No	0
+CUST-1056	Female	0	Yes	No	21	Yes	DSL	No	Yes	One year	Yes	Mailed check	56.12	1178.58	Yes	1
+CUST-1057	Male	0	Yes	No	61	Yes	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	59.37	3524.57	No	0
+CUST-1058	Female	0	Yes	No	18	Yes	No	Yes	No	Month-to-month	Yes	Electronic check	29.1	522.21	Yes	1
+CUST-1059	Female	0	Yes	No	55	Yes	DSL	No	No	One year	Yes	Mailed check	61.82	3390.3	No	0
+CUST-1060	Male	1	No	No	70	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	82.15	5755.19	No	0
+CUST-1061	Female	0	Yes	No	65	Yes	No	No	No	Month-to-month	No	Credit card (automatic)	20.29	1284.33	No	0
+CUST-1062	Male	0	No	No	68	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	85.93	5873.17	No	0
+CUST-1063	Male	0	Yes	No	11	Yes	Fiber optic	No	No	Month-to-month	No	Credit card (automatic)	98.72	1040.63	Yes	1
+CUST-1064	Female	0	No	No	71	Yes	Fiber optic	Yes	No	One year	Yes	Credit card (automatic)	87.56	6268.43	No	0
+CUST-1065	Female	0	No	Yes	58	No	Fiber optic	Yes	No	One year	Yes	Mailed check	97.37	5663.29	No	0
+CUST-1066	Male	0	No	Yes	19	Yes	DSL	No	No	Month-to-month	No	Bank transfer (automatic)	51.53	994.96	No	0
+CUST-1067	Female	0	No	No	72	Yes	DSL	No	No	One year	Yes	Credit card (automatic)	71.4	5157.33	No	0
+CUST-1068	Female	0	No	No	13	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Mailed check	86.83	1161.58	No	0
+CUST-1069	Female	0	No	No	31	No	Fiber optic	No	Yes	Month-to-month	No	Electronic check	101.88	3080.09	No	0
+CUST-1070	Male	0	Yes	No	15	Yes	Fiber optic	Yes	Yes	Month-to-month	No	Electronic check	89.27	1333.33	No	0
+CUST-1071	Male	0	No	Yes	60	Yes	No	Yes	No	Month-to-month	Yes	Credit card (automatic)	35.33	2111.92	No	0
+CUST-1072	Female	1	No	No	36	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	62.73	2226.19	Yes	1
+CUST-1073	Female	0	No	No	41	Yes	DSL	Yes	Yes	Month-to-month	No	Credit card (automatic)	61.25	2534.12	No	0
+CUST-1074	Male	1	Yes	Yes	58	Yes	No	No	No	One year	Yes	Electronic check	27.53	1589.38	No	0
+CUST-1075	Male	0	No	No	65	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	79.18	5139.59	No	0
+CUST-1076	Male	0	Yes	No	62	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	80.57	4945.3	No	0
+CUST-1077	Male	0	No	No	37	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	91.87	3441.96	No	0
+CUST-1078	Male	0	Yes	No	62	Yes	Fiber optic	No	No	Month-to-month	No	Electronic check	76.28	4724.26	No	0
+CUST-1079	Female	0	Yes	No	58	Yes	No	No	No	Month-to-month	Yes	Mailed check	18	1060.38	No	0
+CUST-1080	Male	0	No	Yes	3	No	DSL	No	No	Month-to-month	No	Mailed check	58.63	165.47	Yes	1
+CUST-1081	Male	1	No	No	7	Yes	DSL	No	Yes	Month-to-month	No	Bank transfer (automatic)	56.4	367.55	No	0
+CUST-1082	Female	0	No	No	62	No	Fiber optic	No	No	Month-to-month	Yes	Electronic check	84.9	5252.18	No	0
+CUST-1083	Female	0	No	Yes	66	Yes	DSL	Yes	Yes	Month-to-month	No	Electronic check	55.33	3626.03	No	0
+CUST-1084	Male	0	Yes	No	70	Yes	DSL	Yes	No	Two year	Yes	Electronic check	57.58	3992.77	No	0
+CUST-1085	Male	0	No	No	15	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	60.84	902.18	No	0
+CUST-1086	Female	0	No	No	48	Yes	DSL	No	No	Month-to-month	Yes	Credit card (automatic)	59.62	2885.25	No	0
+CUST-1087	Male	1	Yes	No	51	Yes	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	19.7	1010.85	No	0
+CUST-1088	Female	0	Yes	No	32	No	Fiber optic	No	No	Month-to-month	No	Bank transfer (automatic)	87.34	2862.01	No	0
+CUST-1089	Female	0	No	No	60	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	92.33	5554.95	No	0
+CUST-1090	Male	0	No	No	22	Yes	DSL	No	No	Month-to-month	No	Credit card (automatic)	72	1597.62	No	0
+CUST-1091	Male	0	No	No	63	Yes	No	Yes	No	Month-to-month	No	Electronic check	25.22	1658.58	No	0
+CUST-1092	Male	0	Yes	No	42	Yes	No	No	Yes	One year	Yes	Mailed check	29.73	1211.54	No	0
+CUST-1093	Male	0	No	Yes	66	Yes	Fiber optic	No	No	Two year	Yes	Mailed check	82.7	5441.64	No	0
+CUST-1094	Male	0	Yes	No	50	Yes	Fiber optic	No	No	Month-to-month	No	Mailed check	90.96	4524.25	No	0
+CUST-1095	Female	1	Yes	No	47	Yes	Fiber optic	No	Yes	One year	No	Mailed check	86.7	4060.81	No	0
+CUST-1096	Male	1	No	No	8	Yes	DSL	No	No	One year	Yes	Mailed check	47.66	344.77	No	0
+CUST-1097	Male	0	Yes	No	36	Yes	No	Yes	No	One year	Yes	Electronic check	21.45	760.39	No	0
+CUST-1098	Male	0	Yes	Yes	9	Yes	DSL	Yes	Yes	Month-to-month	No	Mailed check	50.17	480.25	Yes	1
+CUST-1099	Female	0	No	Yes	11	No	DSL	Yes	Yes	One year	Yes	Electronic check	59.67	631.88	No	0
+CUST-1100	Male	0	No	Yes	66	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	81.62	5332.64	No	0
+CUST-1101	Male	0	No	Yes	42	Yes	Fiber optic	Yes	No	Two year	Yes	Credit card (automatic)	77.12	3204.33	No	0
+CUST-1102	Female	1	Yes	No	3	Yes	DSL	No	Yes	Two year	Yes	Credit card (automatic)	58.78	208.81	No	0
+CUST-1103	Female	0	Yes	No	19	Yes	DSL	No	Yes	Two year	Yes	Electronic check	63.96	1212.79	Yes	1
+CUST-1104	Female	0	No	Yes	31	Yes	DSL	No	Yes	Month-to-month	Yes	Mailed check	60.4	1946.53	No	0
+CUST-1105	Female	0	Yes	No	51	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	89.81	4516.81	No	0
+CUST-1106	Female	0	No	Yes	48	Yes	Fiber optic	No	No	Month-to-month	Yes	Bank transfer (automatic)	92.87	4477.66	Yes	1
+CUST-1107	Male	0	No	No	10	Yes	DSL	Yes	Yes	Two year	No	Credit card (automatic)	52.94	526.79	No	0
+CUST-1108	Female	0	No	No	49	Yes	No	No	No	Two year	Yes	Electronic check	25.74	1285.17	No	0
+CUST-1109	Female	0	Yes	No	44	Yes	Fiber optic	No	Yes	One year	Yes	Credit card (automatic)	73.5	3242.74	No	0
+CUST-1110	Male	0	Yes	No	13	Yes	DSL	Yes	Yes	Month-to-month	No	Electronic check	63.91	806.48	No	0
+CUST-1111	Female	0	No	Yes	14	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	59.03	837.69	Yes	1
+CUST-1112	Male	0	Yes	Yes	21	Yes	Fiber optic	No	No	Two year	Yes	Mailed check	77.11	1665.91	No	0
+CUST-1113	Male	0	Yes	No	15	Yes	No	No	No	Month-to-month	Yes	Bank transfer (automatic)	29.58	469.51	No	0
+CUST-1114	Female	0	No	Yes	51	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	89.39	4594.69	Yes	1
+CUST-1115	Female	1	Yes	No	46	Yes	No	No	No	Two year	Yes	Electronic check	29.62	1369.17	No	0
+CUST-1116	Male	0	Yes	No	45	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Credit card (automatic)	105.3	2060.275	No	0
+CUST-1117	Male	0	Yes	No	37	Yes	DSL	Yes	No	One year	No	Mailed check	46.09	1701.79	No	0
+CUST-1118	Male	0	No	No	65	Yes	Fiber optic	No	No	Two year	Yes	Electronic check	89.12	5790.49	No	0
+CUST-1119	Male	0	Yes	No	26	No	Fiber optic	Yes	No	One year	Yes	Mailed check	87.31	2271.03	No	0
+CUST-1120	Female	1	No	No	30	Yes	Fiber optic	Yes	No	Two year	No	Bank transfer (automatic)	94.54	2871.14	No	0
+CUST-1121	Female	0	No	No	72	Yes	Fiber optic	No	No	Two year	No	Credit card (automatic)	103.6	7568.21	No	0
+CUST-1122	Female	0	No	No	36	Yes	DSL	Yes	No	Month-to-month	Yes	Electronic check	63.2	2289.49	Yes	1
+CUST-1123	Male	0	No	No	3	Yes	No	No	No	Month-to-month	No	Credit card (automatic)	18	118.1	Yes	1
+CUST-1124	Female	0	No	Yes	40	Yes	DSL	No	Yes	One year	Yes	Bank transfer (automatic)	61.32	2427.62	No	0
+CUST-1125	Male	0	Yes	Yes	68	Yes	DSL	No	Yes	Two year	No	Bank transfer (automatic)	56.87	3807.7	No	0
+CUST-1126	Female	1	No	No	20	Yes	DSL	Yes	Yes	Month-to-month	No	Bank transfer (automatic)	62.08	2060.275	No	0
+CUST-1127	Female	0	Yes	Yes	21	Yes	Fiber optic	Yes	No	One year	Yes	Bank transfer (automatic)	89.67	1851.34	No	0
+CUST-1128	Female	1	No	Yes	7	Yes	DSL	No	No	Month-to-month	No	Electronic check	69.12	462.74	Yes	1
+CUST-1129	Male	0	Yes	No	31	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Mailed check	75.2	2340.91	Yes	1
+CUST-1130	Male	0	Yes	Yes	23	Yes	Fiber optic	Yes	No	Two year	Yes	Mailed check	79.34	1839.78	No	0
+CUST-1131	Female	0	No	Yes	44	Yes	Fiber optic	No	No	Month-to-month	Yes	Electronic check	78.28	3450.35	No	0
+CUST-1132	Female	0	No	No	23	Yes	No	No	Yes	Month-to-month	Yes	Credit card (automatic)	27.29	583.7	No	0
+CUST-1133	Female	0	No	No	18	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	78.05	1376.15	Yes	1
+CUST-1134	Female	0	Yes	No	7	Yes	DSL	No	No	Month-to-month	No	Bank transfer (automatic)	56.44	297.69	No	0
+CUST-1135	Female	0	Yes	Yes	10	Yes	DSL	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	54.09	539.07	No	0
+CUST-1136	Female	1	No	Yes	11	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	71.95	754.9	Yes	1
+CUST-1137	Male	0	Yes	No	44	Yes	Fiber optic	Yes	Yes	Two year	No	Electronic check	100.2	4421.98	No	0
+CUST-1138	Male	1	No	No	36	Yes	Fiber optic	No	Yes	One year	No	Electronic check	82.6	2880.49	Yes	1
+CUST-1139	Female	0	Yes	No	60	Yes	DSL	No	Yes	Month-to-month	Yes	Mailed check	60.72	3617.35	No	0
+CUST-1140	Female	0	No	No	68	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	93.47	6282.13	Yes	1
+CUST-1141	Female	0	No	Yes	49	Yes	DSL	Yes	No	One year	Yes	Electronic check	61.26	3010.13	No	0
+CUST-1142	Female	0	Yes	Yes	4	Yes	DSL	No	Yes	Month-to-month	Yes	Mailed check	42.1	198.04	No	0
+CUST-1143	Male	1	No	No	40	Yes	Fiber optic	No	Yes	Month-to-month	No	Electronic check	78.62	3155.78	Yes	1
+CUST-1144	Female	0	No	Yes	9	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	68.47	606.17	No	0
+CUST-1145	Female	0	No	No	49	Yes	Fiber optic	Yes	Yes	One year	No	Electronic check	93.85	4632.21	No	0
+CUST-1146	Male	0	No	Yes	70	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	85.02	5985.63	No	0
+CUST-1147	Male	0	Yes	No	5	Yes	Fiber optic	Yes	No	Two year	Yes	Electronic check	77.92	372.1	No	0
+CUST-1148	Female	0	Yes	No	39	Yes	DSL	No	Yes	One year	No	Bank transfer (automatic)	56.56	2151.96	No	0
+CUST-1149	Male	0	Yes	No	43	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	54.79	2367.19	No	0
+CUST-1150	Female	0	No	No	8	Yes	No	Yes	Yes	Month-to-month	Yes	Bank transfer (automatic)	26.3	232.64	Yes	1
+CUST-1151	Male	0	No	No	67	Yes	No	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	20.53	1365.94	No	0
+CUST-1152	Female	0	Yes	No	23	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	83.58	1933.82	No	0
+CUST-1153	Male	0	No	No	46	Yes	Fiber optic	No	Yes	Two year	No	Electronic check	82.1	3743.34	Yes	1
+CUST-1154	Female	0	Yes	No	37	No	DSL	No	No	Month-to-month	No	Bank transfer (automatic)	49.31	1804.42	Yes	1
+CUST-1155	Female	0	Yes	No	8	Yes	Fiber optic	Yes	No	Month-to-month	No	Bank transfer (automatic)	84.71	705.39	No	0
+CUST-1156	Male	0	No	No	31	Yes	DSL	Yes	Yes	Month-to-month	Yes	Mailed check	47.03	1463.66	No	0
+CUST-1157	Male	0	Yes	No	48	Yes	DSL	No	No	Month-to-month	Yes	Electronic check	64.8	3111.51	Yes	1
+CUST-1158	Female	0	Yes	No	47	Yes	DSL	No	Yes	Month-to-month	Yes	Electronic check	50.34	2400.03	No	0
+CUST-1159	Male	0	Yes	Yes	49	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	75.42	3721.26	No	0
+CUST-1160	Male	0	No	No	61	Yes	Fiber optic	No	Yes	Two year	Yes	Mailed check	98.09	5952	Yes	1
+CUST-1161	Female	0	No	No	21	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	88.52	1898.55	Yes	1
+CUST-1162	Male	1	Yes	No	47	Yes	Fiber optic	Yes	No	Two year	Yes	Bank transfer (automatic)	90.81	4312.74	No	0
+CUST-1163	Male	0	Yes	No	48	Yes	Fiber optic	Yes	No	Month-to-month	No	Bank transfer (automatic)	89.41	4312.34	No	0
+CUST-1164	Female	0	Yes	Yes	70	Yes	DSL	Yes	Yes	Month-to-month	Yes	Mailed check	58.24	4058.14	No	0
+CUST-1165	Male	1	Yes	No	72	Yes	Fiber optic	Yes	Yes	Two year	Yes	Credit card (automatic)	83.09	6020.17	No	0
+CUST-1166	Female	0	Yes	No	7	Yes	DSL	No	No	One year	Yes	Mailed check	59.75	383.8	No	0
+CUST-1167	Female	0	Yes	Yes	16	Yes	Fiber optic	No	No	Month-to-month	Yes	Mailed check	101.94	1695.95	No	0
+CUST-1168	Female	0	Yes	No	23	Yes	No	Yes	No	Month-to-month	Yes	Electronic check	30.01	632.44	Yes	1
+CUST-1169	Female	0	No	Yes	46	Yes	DSL	Yes	No	Month-to-month	Yes	Bank transfer (automatic)	64.63	2924.82	No	0
+CUST-1170	Male	0	Yes	No	69	Yes	DSL	No	Yes	One year	Yes	Mailed check	54.61	3741.84	No	0
+CUST-1171	Male	0	No	No	67	Yes	No	No	No	Month-to-month	No	Mailed check	18	1202.65	No	0
+CUST-1172	Female	1	Yes	No	69	Yes	DSL	Yes	Yes	One year	Yes	Credit card (automatic)	62.8	4320.23	No	0
+CUST-1173	Male	0	No	Yes	45	Yes	DSL	No	No	Month-to-month	Yes	Bank transfer (automatic)	70.61	3148.72	No	0
+CUST-1174	Male	0	Yes	Yes	56	Yes	Fiber optic	No	No	Two year	Yes	Mailed check	78.14	4357.87	No	0
+CUST-1175	Female	0	No	Yes	58	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	99.11	5752.36	No	0
+CUST-1176	Female	0	Yes	No	24	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Electronic check	80.99	1945.44	Yes	1
+CUST-1177	Male	0	Yes	Yes	42	Yes	DSL	Yes	No	Two year	Yes	Bank transfer (automatic)	53.73	2211.46	Yes	1
+CUST-1178	Male	0	No	No	38	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Mailed check	104.49	3937.08	No	0
+CUST-1179	Female	0	No	No	16	Yes	Fiber optic	Yes	Yes	One year	No	Credit card (automatic)	88.04	1400.86	No	0
+CUST-1180	Male	0	Yes	Yes	60	Yes	Fiber optic	No	Yes	Month-to-month	No	Electronic check	96.82	5852.56	No	0
+CUST-1181	Male	0	No	Yes	33	Yes	Fiber optic	Yes	No	One year	Yes	Bank transfer (automatic)	84.31	2824.7	Yes	1
+CUST-1182	Male	0	No	No	27	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Credit card (automatic)	88.23	2422.9	Yes	1
+CUST-1183	Male	1	Yes	No	9	Yes	DSL	No	Yes	Two year	No	Credit card (automatic)	56.18	518.14	No	0
+CUST-1184	Male	0	No	No	10	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Credit card (automatic)	81.42	804.18	Yes	1
+CUST-1185	Male	1	No	Yes	4	Yes	Fiber optic	No	No	One year	Yes	Bank transfer (automatic)	88.22	319.15	No	0
+CUST-1186	Female	0	No	No	44	Yes	DSL	Yes	Yes	Month-to-month	Yes	Electronic check	63.32	2853.09	Yes	1
+CUST-1187	Female	0	Yes	No	58	Yes	Fiber optic	No	No	Two year	Yes	Credit card (automatic)	93.12	5483.74	No	0
+CUST-1188	Male	0	No	No	41	Yes	DSL	No	No	Month-to-month	Yes	Mailed check	51.77	2144.66	No	0
+CUST-1189	Female	0	Yes	No	39	Yes	DSL	No	Yes	Two year	Yes	Bank transfer (automatic)	40.83	1647.1	No	0
+CUST-1190	Male	0	No	Yes	26	Yes	Fiber optic	No	Yes	Two year	No	Bank transfer (automatic)	83.78	2153.53	No	0
+CUST-1191	Male	0	Yes	No	72	Yes	No	Yes	Yes	Month-to-month	Yes	Mailed check	20.47	1483.47	Yes	1
+CUST-1192	Female	0	Yes	No	20	Yes	Fiber optic	Yes	No	One year	Yes	Credit card (automatic)	88.43	1755.62	No	0
+CUST-1193	Male	0	Yes	No	64	Yes	DSL	No	Yes	Month-to-month	Yes	Bank transfer (automatic)	59.92	3814.91	No	0
+CUST-1194	Male	0	No	No	34	Yes	DSL	Yes	No	Month-to-month	Yes	Mailed check	65.79	2240.97	No	0
+CUST-1195	Male	0	No	No	51	Yes	DSL	Yes	No	Two year	Yes	Electronic check	57.6	2980.95	No	0
+CUST-1196	Male	0	No	Yes	14	Yes	No	Yes	Yes	One year	Yes	Mailed check	20	333.98	No	0
+CUST-1197	Male	0	No	Yes	55	Yes	Fiber optic	Yes	Yes	Month-to-month	Yes	Mailed check	89.6	4933.47	No	0
+CUST-1198	Female	1	No	No	57	Yes	Fiber optic	No	Yes	Month-to-month	Yes	Electronic check	87.05	5025.19	No	0
+CUST-1199	Male	0	No	Yes	66	Yes	Fiber optic	Yes	No	Month-to-month	Yes	Electronic check	101.52	6649.53	No	0
+CUST-1200	Male	1	No	No	20	Yes	Fiber optic	Yes	No	One year	Yes	Electronic check	94.28	1828.92	No	0
