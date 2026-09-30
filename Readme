@@ -1,0 +1,56 @@
+# Customer Churn Analytics and Prediction using AI
+
+**Student:** Ashi Kesharwani  
+**Internship:** IBM SkillsBuild Data Analytics with AI Academic Internship 2026  
+**Internship ID:** IBMUEDA4034
+
+## Project Overview
+This project demonstrates data cleaning, exploratory data analysis (EDA),
+visualization, predictive analytics, classification, model evaluation,
+and AI-driven business insights using a customer churn dataset.
+
+The dataset used for this educational project is an original synthetic dataset.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+- Excel
+
+## Dataset
+- [Raw Customer Churn Dataset](customer_churn_raw.csv)
+- [Cleaned Customer Churn Dataset](customer_churn_cleaned.csv)
+
+## Project Files
+- `Ashi_Kesharwani_Customer_Churn.ipynb` — complete project code
+- `customer_churn_raw.csv` — original project dataset
+- `customer_churn_cleaned.csv` — cleaned dataset
+- `Ashi_Kesharwani_ProjectReport.docx` — project documentation
+- `customer_churn_analysis.xlsx` — analysis workbook
+- `model_results.csv` — model evaluation results
+- `figures/` — generated charts
+
+## Setup and Run
+1. Install Python 3.x.
+2. Install dependencies:
+   `pip install -r requirements.txt`
+3. Open `Ashi_Kesharwani_Customer_Churn.ipynb` in Jupyter Notebook.
+4. Keep the CSV files in the same project folder.
+5. Run the notebook cells from top to bottom.
+
+## Models Used
+- Logistic Regression
+- Decision Tree Classifier
+
+## Key Outcome
+The project analyzes customer churn patterns and uses classification models
+to identify customers who may be at higher risk of churn. The results are
+used to suggest data-driven business actions for customer retention.
+
+## Note
+This is an educational project and the dataset is synthetic; it does not
+contain real customer personal data.
