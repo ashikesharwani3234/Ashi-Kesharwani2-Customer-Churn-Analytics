@@ -1,0 +1,81 @@
+CUSTOMER CHURN ANALYTICS AND PREDICTION USING AI
+IBM SkillsBuild Data Analytics with AI Internship 2026
+AICTE – BharatCares – IBM SkillsBuild
+
+Submitted by: Ashi Kesharwani
+United University
+Internship ID: IBMUEDA4034
+
+1. Abstract
+Customer churn is an important business problem for subscription-based services. This project uses data analytics and machine learning to understand churn patterns and predict whether a customer is likely to leave. The workflow includes data cleaning, exploratory data analysis, visualization, classification models and AI-driven insights. The dataset is an original synthetic educational dataset created for this project.
+2. Problem Statement
+The objective is to identify factors associated with customer churn and build a predictive model that can flag customers who may be at higher risk of leaving. Such predictions can help a business prioritize retention efforts.
+3. Objectives
+Clean and prepare customer data.
+Perform exploratory data analysis (EDA).
+Identify important churn patterns using visualizations.
+Build classification models for churn prediction.
+Evaluate models using Accuracy, Precision, Recall, F1-score and ROC-AUC.
+Generate practical AI-driven retention insights.
+4. Dataset Description
+The dataset contains 1,200 customer records and 15 input attributes covering demographics, tenure, services, contract and billing. The target variable is Churn.
+The dataset is synthetic and contains no real customer or personally identifiable information.
+5. Data Cleaning and Preprocessing
+Converted charge fields to numeric format.
+Filled missing numerical values using median imputation.
+Filled missing categorical values using mode imputation.
+Created ChurnFlag as the binary target.
+Applied one-hot encoding to categorical variables.
+Standardized numerical variables for Logistic Regression.
+Used a stratified 80/20 train-test split.
+6. Exploratory Data Analysis
+Overall churn rate is 25.2%. The highest contract-level churn is Month-to-month at 33.8%, while the lowest is One year at 12.9%.
+
+Figure 1: Overall churn distribution.
+
+Figure 2: Churn rate by contract type.
+
+Figure 3: Churn rate by payment method.
+
+Figure 4: Churn rate by internet service.
+7. Predictive Analytics and AI
+Two supervised classification models were developed: Logistic Regression and Decision Tree. The target is ChurnFlag, where 1 represents churn and 0 represents retained customers.
+Model
+Accuracy
+Precision
+Recall
+F1
+ROC-AUC
+Logistic Regression
+0.750
+0.514
+0.295
+0.375
+0.735
+Decision Tree
+0.758
+0.541
+0.328
+0.408
+0.667
+
+
+8. Key Insights
+Overall churn rate is 25.2% in the project dataset.
+Month-to-month customers have the highest churn rate (33.8%).
+Electronic check has the highest churn rate among payment methods (29.0%).
+Fiber optic has the highest churn rate among internet-service groups (29.0%).
+Lower-tenure customers show higher vulnerability in the generated data.
+Security and technical-support services are associated with lower churn in the generated data.
+9. Business Recommendations
+Create an early-tenure customer engagement program.
+Offer suitable incentives for customers considering longer contracts.
+Encourage automated payment methods where appropriate.
+Promote support and security services to at-risk customers.
+Use model-generated risk scores as a prioritization aid rather than as an automatic decision.
+10. Limitations and Ethical Considerations
+The dataset is synthetic and intended for educational demonstration. Numerical findings must not be interpreted as actual telecom-industry statistics. The model should be validated on genuine organizational data before any real-world use.
+11. Conclusion
+The project demonstrates an end-to-end Data Analytics and AI workflow: data preparation, EDA, visualization, predictive modeling and interpretation. Machine learning can support retention planning by identifying patterns and prioritizing potentially high-risk accounts.
+12. Tools and Technologies
+Python, Pandas, NumPy, Matplotlib, Scikit-learn, Excel and PowerPoint.
